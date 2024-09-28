@@ -195,7 +195,7 @@
         .carousel {
             display: flex;
             width: 100%;
-		overflow: auto;
+		
             animation: slide 60s infinite linear;
         }
         .carousel img {
@@ -205,6 +205,7 @@
                padding: 1px;
  margin: 6px;
             height: auto;
+		overflow: auto;
         }
         /* Navigation buttons */
         .carousel-btn {
