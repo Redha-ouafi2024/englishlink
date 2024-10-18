@@ -406,7 +406,7 @@ animation: gradient 3s linear infinite; }
             box-sizing: border-box;
         }
 
-        button {
+        .button4 {
             width:60px;
             padding: 3px;
             background-color: white;
@@ -417,7 +417,7 @@ animation: gradient 3s linear infinite; }
             cursor: pointer;
         }
 
-        button:hover {
+        .button4:hover {
             background-color: red;
             color:white
         }
