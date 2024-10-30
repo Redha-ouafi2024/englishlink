@@ -9583,12 +9583,6 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
 
     
-  
-     } else if (userInput.includes('ماسمك')|| userInput.includes('هل لديك اسم')|| userInput.includes('ما اسمك')|| userInput.includes('ما إسمك')|| userInput.includes('مالقبك')|| userInput.includes('ماهو إسمك') || userInput.includes('ماهو اسمك')|| userInput.includes('مااسمك') || userInput.includes('ما هو لقبك') || userInput.includes('ما لقبك')) {
-    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">Riva</div>'  ;
-
-    
-    
     
     
      } else if (userInput.includes('الكمبيوتر')
