@@ -9272,7 +9272,6 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
 
 
 
-
      } else if (userInput.includes('الجدول الدوري للعناصر')|| userInput.includes('البترول')|| userInput.includes('الغازات')|| userInput.includes('الغاز')|| userInput.includes('الفضة')|| userInput.includes('الذهب')|| userInput.includes('الحديد')|| userInput.includes('اليورانيوم')|| userInput.includes('النحاس') || userInput.includes('المعادن')|| userInput.includes('الجدول الدوري') || userInput.includes('الذرة')|| userInput.includes('الطاقة النووية')|| userInput.includes('الصوت')|| userInput.includes('الذرات') || userInput.includes('علم الذرة')) {
     botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالكمياء و العناصر ' ;
 
@@ -9459,7 +9458,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
      || userInput.includes('الفساد:')
     
      
-      || userInput.includes('1')) {
+      || userInput.includes('سياسة نقدية')) {
     botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالسياسة ' ;
 
     
@@ -9498,17 +9497,17 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
      || userInput.includes('الشوارع')
       || userInput.includes('المدينة')
       || userInput.includes('مركز المدينة')
-       || userInput.includes('1')
-       || userInput.includes('2')
-       || userInput.includes('3')
-       || userInput.includes('4')
-       || userInput.includes('5')
-       || userInput.includes('6')
-       || userInput.includes('7')
-       || userInput.includes('8')
-       || userInput.includes('9')
-       || userInput.includes('10')
-        || userInput.includes('11')) {
+       || userInput.includes('شرطة')
+       || userInput.includes('حماية مدية')
+       || userInput.includes('درك')
+       || userInput.includes('جيش وطني')
+       || userInput.includes('درك')
+       || userInput.includes('مرافق عمومية')
+       || userInput.includes('قوات برية')
+       || userInput.includes('قوات بحرية')
+       || userInput.includes('قوات جوية')
+       || userInput.includes('ولاية')
+        || userInput.includes('دائرة')) {
     botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالدولة '  ;
 
     
@@ -9579,9 +9578,6 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
 
 
     
-
-    
-
     
     
     
@@ -9987,11 +9983,6 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
      
      
     botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">رابط الفيسبوك موجود على هذه الصفحة</div>' ;
- 
-      
-    
-    
-       
        
 
 
