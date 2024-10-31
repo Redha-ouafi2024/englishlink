@@ -9987,6 +9987,431 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
 
 
 
+  
+          } else if (userInput.includes('كم هو عدد الكواكب في النضام الشمسي')
+        
+         || userInput.includes('ماهي كواكب نضامنا الشمسي')
+         
+         || userInput.includes('ماهي كواكب النضام الشمسي')
+        
+         || userInput.includes('أخبرني ماذا تعرف عن كواكب النضام الشمسي')
+          || userInput.includes('أكتب معلومات حول كواكب النضام الشمسي')
+           || userInput.includes('أكتب معلومات حول الكواكب في النضام الشمسي')
+          || userInput.includes('أكتب معلومات عن الكواكب في النضام الشمسي')
+          || userInput.includes('كم عدد الكواكب في النضام الشمسي')
+                   
+     || userInput.includes('أكتب معلومات عن كواكب النضام الشمسي')) {
+          
+     botMessage.innerHTML = '<div class="row"><img src="imagerussia/systemsolar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">يوجد في نظامنا الشمسي ثمانية كواكب رئيسية  كوكب الزهرة , كوكب الأرض, كوكب عطارد , كوكب المريخ ,كوكب المشتري ,كوكب أورانوس, كوكب زحل, كوكب نبتون, .من أجل معلومات أكثر أكتب  إسم الكوكب   ثمانية كواكب رئيسية.من أجل معلومات أكثر أكتب  إسم الكوكب </div>'  ;
+  
+       
+       
+     
+     
+       } else if (userInput.includes('عطارد')
+    
+       || userInput.includes('كوكب عطارد')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mercury.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">عطارد من الكواكب الصغيرة في النظام الشمسي وهو الأقرب إلى الشمس سطحه مليء بالفوهات ليس لديه غلاف جوي كثيف والكثبان الرملية </div> ' ;
+ 
+       
+     
+          
+       
+          } else if (userInput.includes('الزهرة')
+    
+       || userInput.includes('كوكب الزهرة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/venus.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الزهرة هو ثاني أقرب كوكب إلى الشمس  سطحه مغطى بغيوم كثيفة من ثاني أكسيد الكربون يظهر لمعاناً كبيراً في السماء يدور في الاتجاه المعاكس لمعظم الكواكب الأخرى </div>' ;
+     
+     
+     
+       
+         } else if (userInput.includes('الأرض')
+    
+       || userInput.includes('كوكب الأرض')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/earth.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الأرض هو الكوكب الوحيد المعروف بوجود الحياة يمتلك غلافاً جوياً يحمي الحياة يحتوي على محيطات ومسطحات مائية كبيرة </div>'  ;
+ 
+       
+       
+       
+           } else if (userInput.includes('المريخ')
+    
+       || userInput.includes('كوكب المريخ')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mars.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">المريخ هو الكوكب الرابع في النضم الشمسي معروف بالكوكب الأحمر بسبب لون تربته الغنية بأكسيد الحديد لديه كتل جليدية محتملة تحت السطح </div>'  ;
+ 
+       
+       
+       
+       
+          } else if (userInput.includes('المشتري')
+    
+       || userInput.includes('كوكب المشتري')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/jupiter.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">المشتري أكبر كوكب في النظام الشمسي  لديه غلاف جوي مكون من الهيدروجين والهيليوم يحتوي على بقعة حمراء كبيرة وهي عاصفة عملاقة لديه 79 قمرًا معروفًا، بما في ذلك جاليلين الأكبر </div>'  ;
+ 
+       
+       
+       
+       
+        
+          } else if (userInput.includes('زحل')
+    
+       || userInput.includes('كوكب زحل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/saturn.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">كوكب زحل معروف بحلقاته الجليدية الرائعة ثاني أكبر كوكب في النظام الشمسي لديه 83 قمرًا معروفًا، أشهرها تيتان </div>'  ;
+ 
+       
+       
+       
+          
+          } else if (userInput.includes('أورانوس')
+    
+       || userInput.includes('كوكب أورانوس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/uranus.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">كوكب أورانوس يظهر لونًا أزرق بسبب وجود الميثان   يحتوي على غلاف جوي من الهيدروجين و الهليوم و الميثان </div>'  ;
+ 
+       
+       
+      
+          } else if (userInput.includes('نبتون')
+    
+       || userInput.includes('كوكب نبتون')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/neptune.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">كوكب نبتون هو أبعد كوكب عن الشمس لديه رياح قوية وعواصف كبيرة يحتوي غلافه الجوي على الهيدروجين والهليوم والميثان، مما يعطيه لونًا أزرق كل كوكب له ميزات وخصائص تجعله فريدًا. النظام الشمسي</div>'   ;
+ 
+        
+       
+       
+       
+         } else if (userInput.includes('حزام كايبر')
+          
+          || userInput.includes('ماهو حزام كايبر')
+          || userInput.includes('أكتب معلومات حول حزام كايبر')
+          || userInput.includes('أكتب معلومات عن حزام كايبر')
+    
+       || userInput.includes('أخبرني ماذا تعرف عن حزام كايبر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/kuiperbelt.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">حزام كايبر: يتكون من مواد متبقية من تشكل النظام الشمسي، ويحتوي على الأجرام الجليدية والصخور الكواكب القزمة يحتوي على العديد من الكواكب القزمة، مثل بلوتو، هاوميا، ميكميك، وإيريس الأجرام السماوية </div>'   ;
+ 
+       
+       
+       
+           } else if (userInput.includes('مجرة درب التبانة')
+          
+           || userInput.includes('ماهي مجرة درب التبانة')
+          || userInput.includes('أكتب معلومات عن مجرة درب التبانة')
+           || userInput.includes('أكتب معلومات حول مجرة درب التبانة')
+            || userInput.includes('أخبرني ماذا تعرف عن مجرة درب التبانة')
+    
+       || userInput.includes('درب التبانة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/milkyway.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">هي مجرة حلزونية، تتكون من أذرع لولبية تلتف حول مركزها  تتكون درب التبانة من ما يقارب 100-400 مليار نجمة، بالإضافة إلى الغاز والغبار الحجم: قطرها يقدر بحوالي 100,000 سنة ضوئية </div>'  ;
+ 
+       
+       
+       
+       
+             } else if (userInput.includes('ماهي أقرب مجرة إلينا')
+          
+       || userInput.includes('ماهي اقرب مجرة إلينا')
+        || userInput.includes('ماهي أقرب مجرة إلينا')
+       || userInput.includes('ماهي أقرب مجرة لمجرة درب التبانة')
+       
+       || userInput.includes('ماهي اقرب مجرة لمجرة درب التبانة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">أقرب مجرة كبيرة إلينا هي مجرة أندروميدا. تقع على بعد حوالي 2.537 مليون سنة ضوئية من الأرض. تُعرف أيضًا باسم . أندروميدا ومجرة درب التبانة تتجهان نحو بعضهما البعض، ويتوقع العلماء أنهما ستندمجان في النهاية لتشكيل مجرة جديدة في المستقبل البعيد </div>'  ;
+       
+       
+       
+          } else if (userInput.includes('مجرة أندروميدا')
+          
+         || userInput.includes('أندروميدا')  
+    || userInput.includes('اندروميدا')
+     || userInput.includes('ماهي مجرة أندروميدا')
+     || userInput.includes('أكتب معلومات حول مجرة أندروميدا')
+      || userInput.includes('أكتب معلومات عن مجرة أندروميدا')
+       || userInput.includes('أخبرني ماذا تعرف عن مجرة أندروميدا')
+       || userInput.includes('مجرة اندروميدا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/andromeda.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">تقع على بعد حوالي 2.537 مليون سنة ضوئية من الأرض  تقدر كتلتها بحوالي 1.76 ضعف كتلة مجرة درب التبانة  تحتوي على عدد من المجرات القزمة التي تدور حولها  تتميز بشكل حلزوني مشابه لمجرة درب التبانة، لكنها أكبر وأكثر لمعانًا </div>'  ;
+       
+       
+       
+       
+           
+          } else if (userInput.includes('المجرات القمرية')
+          
+        || userInput.includes('ماهي المجرات القمرية')
+          
+    || userInput.includes('أكتب معلومات حول المجرات القمرية')
+    || userInput.includes('أكتب معلومات عن المجرات القمرية')
+       || userInput.includes('أخبرني ماذا تعرف عن المجرات القمرية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/galaxymoon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">هي  المجرات القزمة، التابعة لمجرة درب التبانة تشمل مجموعة متنوعة من المجرات الأصغر التي تدور حول مجرتنا مثل مجرة سحابة ماجلان الكبرى و الصغرى مجرة القزم الدب الأكبر الثانية.لمعلومات اكثر أكتب إسم المجرة القمرية </div>'  ;
+       
+       
+       
+        
+          } else if (userInput.includes('مجرة سحابة ماجلان الكبرى')
+          
+    || userInput.includes('مجرة ماجلان الكبرى')
+    || userInput.includes('مجرة ماجلان')
+    || userInput.includes('سحابة ماجلان')
+
+       || userInput.includes('ماجلان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bigmagellan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مجرة سحابة ماجلان الكبرى: هي واحدة من أكبر المجرات القزمة التابعة لدرب التبانة، تقع على بعد حوالي 163,000 سنة ضوئية. تحتوي على العديد من النجوم الجديدة والمنفجرة، بالإضافة إلى مناطق تكوين النجوم. </div>'  ;
+ 
+       
+       
+       
+        } else if (userInput.includes('مجرة سحابة ماجلان الصغرى')
+          
+    || userInput.includes('مجرة  ماجلان الصغرى')
+    || userInput.includes('مجرة سحابة ماجلان ')
+    || userInput.includes('مجرة  ماجلان ')
+
+       || userInput.includes('ماجلان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/smallmagellan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مجرة سحابة ماجلان الصغرى: تقع على بعد حوالي 200,000 سنة ضوئية، وهي أقل كتافة من سحابة ماجلان الكبرى، لكنها تحتوي على نجوم غنية بالهيدروجين. </div>'   ;
+ 
+       
+       
+       
+       
+          } else if (userInput.includes('مجرة القزم الدب الأكبر الثانية')
+    
+       || userInput.includes('مجرة القزم الدب الأكبر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/galaxybear.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مجرة القزم الدب الأكبر الثانية: تقع على بعد حوالي 30,000 سنة ضوئية  من درب التبانة، وهي واحدة من أقرب المجرات القزمة إلى مجرتنا. تحتوي على عدد قليل من النجوم القديمة.  </div> '    ;
+ 
+       
+       
+             } else if (userInput.includes('الهندسة النووية')
+          
+          
+         || userInput.includes('هندسة نووية')
+          || userInput.includes('هندسة الحاسوب')
+          || userInput.includes('هندسة الحواسيب')
+          || userInput.includes('هندسة الطيران')
+          || userInput.includes('هندسة طيران')
+          || userInput.includes('هندسة البرمجيات')
+           || userInput.includes('هندسة برمجيات')
+            || userInput.includes('هندسة الحواسب')
+            
+    
+       || userInput.includes('هندسة برمجيات الحاسب')) {
+     
+       botMessage.innerHTML =  'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالهندسة ' ;
+ 
+       
+       
+       
+       
+          } else if (userInput.includes('طبيب')
+          
+          
+         || userInput.includes('الطبيب')
+          || userInput.includes('مهنة الطبيب')
+          || userInput.includes('الصيدلي')
+          || userInput.includes('صيدلي')
+           || userInput.includes('مهنة الصيدلي')
+          || userInput.includes('طبيبة')
+          
+             || userInput.includes('الأطباء')
+          || userInput.includes('صيدلية')
+           || userInput.includes('حارس')
+          || userInput.includes('مهندس')
+          
+             || userInput.includes('الحارس')
+          || userInput.includes('المهندس')
+          || userInput.includes('مهندس معماري')
+          || userInput.includes('مهندس مدني')
+           || userInput.includes('طيار')
+          || userInput.includes('ممرض')
+          
+             || userInput.includes('الممرض')
+          || userInput.includes('مهندس كهربائي')
+           || userInput.includes('طبيب نفساني')
+          || userInput.includes('مدير')
+          
+             || userInput.includes('المدير')
+          || userInput.includes('المعلم')
+          || userInput.includes('معلم')
+          || userInput.includes('معلمة')
+           || userInput.includes('الفلاح')
+          || userInput.includes('فلاح')
+          
+             || userInput.includes('الخياط')
+          || userInput.includes('خياط')
+           || userInput.includes('اسكافي')
+          || userInput.includes('إسكافي')
+          
+             || userInput.includes('الإسكافي')
+          || userInput.includes('تاجر')
+          || userInput.includes('التاجر')
+          || userInput.includes('سائق سيارة الأجرة')
+           || userInput.includes('خباز')
+          || userInput.includes('الخباز')
+          
+             || userInput.includes('مكانيكي')
+          || userInput.includes('المكانيكي')
+           || userInput.includes('بناء')
+          || userInput.includes('البناء')
+          
+             || userInput.includes('مراقب')
+          || userInput.includes('مراقب عام')
+          || userInput.includes('المراقب')
+          || userInput.includes('محاسب')
+           || userInput.includes('المحاسب')
+          || userInput.includes('إمام')
+          
+             || userInput.includes('الإمام')
+          || userInput.includes('مزارع')
+           || userInput.includes('المزارع')
+          || userInput.includes('بقال')
+          
+             || userInput.includes('البقال')
+          || userInput.includes('بيطري')
+          || userInput.includes('البيطري')
+          || userInput.includes('عون أمن')
+          
+           || userInput.includes('مقاول')
+          || userInput.includes('المقاول')
+          
+             || userInput.includes('مفتش')
+          || userInput.includes('المفتش')
+           || userInput.includes('الأستاذ')
+          || userInput.includes('استاذ')
+          
+                  || userInput.includes('أستاذ')
+          || userInput.includes('قبطان')
+          
+             || userInput.includes('القبطان')
+          || userInput.includes('مساعد  طيار')
+          
+           || userInput.includes('نجار')
+          || userInput.includes('النجار')
+          
+            || userInput.includes('الحداد')
+          
+             || userInput.includes('كهربائي')
+          || userInput.includes('السباك')
+           || userInput.includes('سباك')
+       
+          
+           || userInput.includes('فيلسوف')
+           || userInput.includes('الفيلسوف')
+           
+            || userInput.includes('صحفي')
+           || userInput.includes('الصحفي')
+           
+                  || userInput.includes('إعلامي')
+           || userInput.includes('دهان')
+                  || userInput.includes('الدهان')
+                  
+           || userInput.includes('مدرس')
+    
+       || userInput.includes('مذيع')) {
+     
+       botMessage.innerHTML =  'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالمهن و الوضيف العمومي ' ;
+       
+       
+    
+       
+       
+       
+ } else if (userInput.includes('ملاكم')
+            
+        || userInput.includes('الملاكم')
+          || userInput.includes('لاعب كرة قدم')
+          || userInput.includes('لاعب كرة السلة')
+          || userInput.includes('مصارع')
+           || userInput.includes('لاعب كرة اليد')
+          || userInput.includes('مدرب كراتي')
+          
+             || userInput.includes('مدرب رياضي')
+          || userInput.includes('مدرب فنون قتالية')
+           || userInput.includes('مدرب فريق رياضي')
+          || userInput.includes('مدرب جيدو')
+          
+               || userInput.includes('راقصة بالي')
+          || userInput.includes('راقصة البالي')
+          
+             || userInput.includes('سباح')
+          || userInput.includes('السباح')
+             || userInput.includes('الرياضي')
+    
+       || userInput.includes('رياضي')) {
+     
+       botMessage.innerHTML =  'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالمهن و الرياضة ' ;
+       
+       
+       
+       
+       
+       
+       
+       
+ } else if (userInput.includes('ممثل')
+            
+       
+            || userInput.includes('الممثل')
+          || userInput.includes('رسام')
+          
+             || userInput.includes('الرسام')
+          || userInput.includes('مغني')
+           || userInput.includes('المغني')
+          || userInput.includes('كاتب')
+       
+         || userInput.includes('الكاتب')
+          
+             || userInput.includes('مسرحي')
+          || userInput.includes('ممثل مسرحي')
+           || userInput.includes('مخرج مسرحي')
+          || userInput.includes('ممثل سنمائي')
+          
+            || userInput.includes('كاتب مسرحي')
+          
+             || userInput.includes('كاتب سنمائي')
+          || userInput.includes('مصور')
+           || userInput.includes('مصور فوتوغرافي')
+          || userInput.includes('منتج')
+          
+            || userInput.includes('منتج فني')
+          
+             || userInput.includes('منتج مسرحي')
+          || userInput.includes('منتج سنمائي')
+           || userInput.includes('فنان')
+          || userInput.includes('الفنان')
+          
+         || userInput.includes('نحات')
+          
+             || userInput.includes('النحات')
+         
+            || userInput.includes('عارض أزياء')
+                     
+             || userInput.includes('مدون')
+          || userInput.includes('مؤثر سوشيال مديا')
+          
+           || userInput.includes('مهرج')
+          || userInput.includes('ممثل كوميدي')
+            
+          || userInput.includes('المهرج')
+          
+       || userInput.includes('منشط')) {
+     
+       botMessage.innerHTML =  'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالمهن و الفن  ' ;
+       
+       
+       
+       
+
+
+  
 
   
      
