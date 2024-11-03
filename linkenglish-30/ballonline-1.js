@@ -14668,7 +14668,2323 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
  
        
        
-  
+    
+    
+         
+        } else if (userInput.includes('القارات')
+          
+          
+         || userInput.includes('القارة')
+          || userInput.includes('قارات')
+         
+          || userInput.includes('ماهي القارة')
+          || userInput.includes('أكتب أهم المعلومات حول القارات')
+          || userInput.includes('أكتب معلومات حول القارات')
+          
+          || userInput.includes('أكتب أهم معلومات عن القارات')
+          || userInput.includes('أكتب معلومات عن القارات')
+          
+          
+           || userInput.includes('أكتب أهم المعلومات القارات')
+          || userInput.includes('أكتب معلومات القارات')
+          
+          || userInput.includes('أكتب أهم معلومات القارات')
+          || userInput.includes('أكتب معلومات عن القارات')
+          
+          
+          
+          
+           || userInput.includes('أكتب أهم المعلومات حول القارات الخمسة')
+          || userInput.includes('أكتب معلومات حول القارات الخمسة')
+          
+          || userInput.includes('أكتب أهم معلومات عن القارات الخمسة')
+          || userInput.includes('أكتب معلومات عن القارات الخمسة')
+          
+          
+           || userInput.includes('أكتب أهم المعلومات القارات الخمسة')
+          || userInput.includes('أكتب معلومات القارات الخمسة')
+          
+          || userInput.includes('أكتب أهم معلومات القارات الخمسة')
+          || userInput.includes('أكتب معلومات عن القارات الخمسة')
+          
+            || userInput.includes('أخبرني ماذا تعرف عن القارات الخمسة')
+        || userInput.includes('أخبرني ماذا تعرف عن القارات الخمسة')
+       
+         || userInput.includes('قارة')
+         
+          || userInput.includes('ماهي القارات الخمسة')
+          
+           || userInput.includes('ماهي القارات')
+            
+    
+       || userInput.includes('القارات الخمسة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/continents.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">هناك سبع قارات في العالم نستذكر منها قارة آسيا و قارة إفريقيا و  أوروبا و أمريكا الشمالية أمريكا الجنوبية و قارة أستراليا و القارة القطبية الجنوبية</div>'  ;
+ 
+       
+    
+    
+    
+    
+         } else if (userInput.includes('إفريقيا')
+          
+          
+         || userInput.includes('قارة افريقيا')
+          || userInput.includes('قارة إفريقيا')
+              || userInput.includes('ماهي قارة إفريقيا')
+          
+          || userInput.includes('أكتب أهم المعلومات حول قارة إفريقيا')
+          || userInput.includes('أكتب معلومات حول قارة إفريقيا')
+          
+          || userInput.includes('أكتب أهم معلومات عن قارة إفريقيا')
+          || userInput.includes('أكتب معلومات عن قارة إفريقيا')
+          
+          
+           || userInput.includes('أكتب أهم المعلومات حول إفريقيا')
+          || userInput.includes('أكتب معلومات حول إفريقيا')
+          
+          || userInput.includes('أكتب أهم معلومات عن إفريقيا')
+          || userInput.includes('أكتب معلومات عن إفريقيا')
+          
+            || userInput.includes('أخبرني ماذا تعرف عن إفريقيا')
+        || userInput.includes('أخبرني ماذا تعرف عن قارة إفريقيا')
+       
+ 
+          
+           || userInput.includes('القارة الإفريقية')
+            
+    
+       || userInput.includes('القارة السمراء')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/africa.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> تقع إفريقيا بين خطي عرض 37° شمالاً و35° جنوباً، ويحدها البحر المتوسط شمالاً، والمحيط الأطلسي غرباً، والمحيط الهندي شرقاً، </div>'  ;
+ 
+       
+     
+    
+    
+    
+    
+       
+         } else if (userInput.includes('أوروبا')
+          
+          
+         || userInput.includes('قارة اوروبا')
+          || userInput.includes('قارة أوروبا')
+              || userInput.includes('ماهي قارة أوروبا')
+          
+          || userInput.includes('أكتب أهم المعلومات حول قارة أوروبا')
+          || userInput.includes('أكتب معلومات حول قارة أوروبا')
+          
+          || userInput.includes('أكتب أهم معلومات عن قارة أوروبا')
+          || userInput.includes('أكتب معلومات عن قارة أوروبا')
+          
+          
+           || userInput.includes('أكتب أهم المعلومات حول أوروبا')
+          || userInput.includes('أكتب معلومات حول أوروبا')
+          
+          || userInput.includes('أكتب أهم معلومات عن أوروبا')
+          || userInput.includes('أكتب معلومات عن أوروبا')
+          
+            || userInput.includes('أخبرني ماذا تعرف عن أوروبا')
+        || userInput.includes('أخبرني ماذا تعرف عن قارة أوروبا')
+       
+ 
+          
+           || userInput.includes('القارة الأوروبية')
+            
+    
+       || userInput.includes('قارة اوروبا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/europe.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> أوروبا هي واحدة من أصغر القارات من حيث المساحة، لكنها تتميز بتأثيرها الحضاري والثقافي الكبير على العالم. </div>'  ;
+ 
+       
+     
+    
+    
+    
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ألبانيا')
+          
+        || userInput.includes('دولة ألبانيا')
+       || userInput.includes('ألبانيا')
+       
+       || userInput.includes('عاصمة دولة ألبانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/albania.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ألبانيا هي  تيرانا </div>'  ;
+ 
+       
+     
+       
+       
+       
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أندورا')
+          
+         || userInput.includes('دولة أندورا')
+       || userInput.includes('أندورا')
+    
+       || userInput.includes('عاصمة دولة أندورا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/andorra.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أندورا هي  أندورا لا فيلا </div>'  ;
+ 
+       
+       
+       
+       
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أرمينيا')
+          
+         || userInput.includes('دولة أرمينيا')
+       || userInput.includes('أرمينيا')
+    
+       || userInput.includes('عاصمة دولة أرمينيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/armenia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أرمينيا هي يريفان </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة النمسا')
+          
+         || userInput.includes('دولة النمسا')
+       || userInput.includes('النمسا')
+    
+       || userInput.includes('عاصمة دولة النمسا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/austria.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة النمسا هي فيينا </div>'  ;
+ 
+       
+       
+       
+       
+       
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بيلاروسيا')
+          
+         || userInput.includes('دولة بيلاروسيا')
+       || userInput.includes('بيلاروسيا')
+    
+       || userInput.includes('عاصمة دولة بيلاروسيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/belarus.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بيلاروسيا هي مينسك </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بلجيكا')
+          
+         || userInput.includes('دولة بلجيكا')
+       || userInput.includes('بلجيكا')
+    
+       || userInput.includes('عاصمة دولة بلجيكا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/belgium.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بلجيكا هي  بروكسل </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة البوسنة والهرسك')
+          
+         || userInput.includes('دولة البوسنة والهرسك')
+       || userInput.includes('البوسنة والهرسك')
+    
+       || userInput.includes('عاصمة دولة البوسنة والهرسك')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bosnia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة البوسنة والهرسك هي سراييفو </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بلغاريا')
+          
+         || userInput.includes('دولة بلغاريا')
+       || userInput.includes('بلغاريا')
+    
+       || userInput.includes('عاصمة دولة بلغاريا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bulgaria.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بلغاريا هي صوفيا </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة كرواتيا')
+          
+         || userInput.includes('دولة كرواتيا')
+       || userInput.includes('كرواتيا')
+    
+       || userInput.includes('عاصمة دولة كرواتيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/croatia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كرواتيا هي زغرب </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة جمهورية التشيك')
+          
+         || userInput.includes('دولة جمهورية التشيك')
+            || userInput.includes('دولة التشيك')
+               || userInput.includes('دولة جمهورية التشيك')
+       || userInput.includes('التشيك')
+          || userInput.includes('تشيك')
+    
+       || userInput.includes('عاصمة دولة جمهورية التشيك')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/czech.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة جمهورية التشيك هي براغ </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الدانمارك')
+          
+         || userInput.includes('دولة الدانمارك')
+       || userInput.includes('الدانمارك')
+    
+       || userInput.includes('عاصمة دولة الدانمارك')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/denmark.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الدانمارك هي كوبنهاغن </div>'  ;
+ 
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة إستونيا')
+          
+         || userInput.includes('دولة إستونيا')
+       || userInput.includes('إستونيا')
+    
+       || userInput.includes('عاصمة دولة إستونيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/estonia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إستونيا هي تالين </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة فنلندا')
+          
+         || userInput.includes('دولة فنلندا')
+       || userInput.includes('فنلندا')
+    
+       || userInput.includes('عاصمة دولة فنلندا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/finland.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة فنلندا هي هلسنكي </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة مقدونيا')
+          
+         || userInput.includes('دولة مقدونيا')
+       || userInput.includes('مقدونيا')
+    
+       || userInput.includes('عاصمة دولة مقدونيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/macedonia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة مقدونيا هي سكوبيه </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة جورجيا')
+          
+         || userInput.includes('دولة جورجيا')
+       || userInput.includes('جورجيا')
+    
+       || userInput.includes('عاصمة دولة جورجيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/georgia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة جورجيا هي تبليسي </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ألمانيا')
+          
+         || userInput.includes('دولة ألمانيا')
+       || userInput.includes('ألمانيا')
+    
+       || userInput.includes('عاصمة دولة ألمانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/germany.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ألمانيا هي برلين </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة اليونان')
+          
+         || userInput.includes('دولة آيسلندا')
+       || userInput.includes('آيسلندا')
+    
+       || userInput.includes('عاصمة دولة اليونان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/iceland.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة اليونان هي أثينا </div>'  ;
+ 
+       
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة هنغاريا')
+          
+         || userInput.includes('دولة هنغاريا')
+       || userInput.includes('هنغاريا')
+    
+       || userInput.includes('عاصمة دولة هنغاريا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/hungary.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة هنغاريا هي بودابست </div>'  ;
+ 
+       
+       
+       
+       
+          
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أيرلندا')
+          
+         || userInput.includes('دولة أيرلندا')
+       || userInput.includes('أيرلندا')
+    
+       || userInput.includes('عاصمة دولة أيرلندا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ireland.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أيرلندا هي  دبلن </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة كوسوفو')
+          
+         || userInput.includes('دولة كوسوفو')
+       || userInput.includes('كوسوفو')
+    
+       || userInput.includes('عاصمة دولة كوسوفو')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/kosovo.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كوسوفو هي  بريشتينا </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة لاتفيا')
+          
+         || userInput.includes('دولة لاتفيا')
+       || userInput.includes('لاتفيا')
+    
+       || userInput.includes('عاصمة دولة لاتفيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/latvia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة لاتفيا هي ريغا </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ليتوانيا')
+          
+         || userInput.includes('دولة ليتوانيا')
+       || userInput.includes('ليتوانيا')
+    
+       || userInput.includes('عاصمة دولة ليتوانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/lithuania.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ليتوانيا هي فيلنيوس </div>'  ;
+ 
+       
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة لوكسمبورغ')
+          
+         || userInput.includes('دولة لوكسمبورغ')
+       || userInput.includes('لوكسمبورغ')
+    
+       || userInput.includes('عاصمة دولة لوكسمبورغ')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/luxembourg.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة لوكسمبورغ هي لوكسمبورغ </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة مالطا')
+          
+         || userInput.includes('دولة مالطا')
+       || userInput.includes('مالطا')
+    
+       || userInput.includes('عاصمة دولة مالطا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/malta.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة مالطا هي فاليتا </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة مولدوفا')
+          
+         || userInput.includes('دولة مولدوفا')
+       || userInput.includes('مولدوفا')
+    
+       || userInput.includes('عاصمة دولة مولدوفا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/moldova.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة مولدوفا هي  كيشيناو </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الجبل الأسود')
+          
+         || userInput.includes('دولة الجبل الأسود')
+       || userInput.includes('الجبل الأسود')
+    
+       || userInput.includes('عاصمة دولة الجبل الأسود')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/montenegro.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة الجبل الأسود هي  بودغوريتشا </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة هولندا')
+          
+         || userInput.includes('دولة هولندا')
+       || userInput.includes('هولندا')
+    
+       || userInput.includes('عاصمة دولة هولندا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/holland.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة هولندا هي  أمستردام </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة النرويج')
+          
+         || userInput.includes('دولة النرويج')
+       || userInput.includes('النرويج')
+    
+       || userInput.includes('عاصمة دولة النرويج')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/norway.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة النرويج هي أوسلو </div>'  ;
+ 
+       
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بولندا')
+          
+         || userInput.includes('دولة بولندا')
+       || userInput.includes('بولندا')
+    
+       || userInput.includes('عاصمة دولة بولندا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/poland.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بولندا هي وارسو </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة البرتغال')
+          
+         || userInput.includes('دولة البرتغال')
+       || userInput.includes('البرتغال')
+    
+       || userInput.includes('عاصمة دولة البرتغال')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/portugal.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة البرتغال هي لشبونة </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة رومانيا')
+          
+         || userInput.includes('دولة رومانيا')
+       || userInput.includes('رومانيا')
+    
+       || userInput.includes('عاصمة دولة رومانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/romania.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة رومانيا هي  بوخارست </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة روسيا')
+          
+       
+      || userInput.includes('دولة روسيا')
+       || userInput.includes('روسيا')
+       || userInput.includes('عاصمة دولة روسيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/russia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة روسيا هي موسكو </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة صربيا')
+          
+         || userInput.includes('دولة صربيا')
+       || userInput.includes('صربيا')
+    
+       || userInput.includes('عاصمة دولة صربيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/serbia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة صربيا هي  بلغراد </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سلوفاكيا')
+          
+         || userInput.includes('دولة سلوفاكيا')
+       || userInput.includes('سلوفاكيا')
+    
+       || userInput.includes('عاصمة دولة سلوفاكيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/slovakia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سلوفاكيا هي براتيسلافا </div>'  ;
+ 
+       
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سلوفينيا')
+          
+         || userInput.includes('دولة سلوفينيا')
+       || userInput.includes('سلوفينيا')
+    
+       || userInput.includes('عاصمة دولة سلوفينيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/slovenia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سلوفينيا هي ليوبليانا </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة إسبانيا')
+          
+         || userInput.includes('دولة إسبانيا')
+       || userInput.includes('إسبانيا')
+    
+       || userInput.includes('عاصمة دولة إسبانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/spain.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إسبانيا هي  مدريد </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة السويد')
+          
+         || userInput.includes('دولة السويد')
+       || userInput.includes('السويد')
+    
+       || userInput.includes('عاصمة دولة السويد')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sweden.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة  السويد هي ستوكهولم </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة إيطاليا')
+          
+         || userInput.includes('دولة إيطاليا')
+       || userInput.includes('إيطاليا')
+    
+       || userInput.includes('عاصمة دولة إيطاليا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/italy.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إيطاليا هي  روما </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سويسرا')
+          
+         || userInput.includes('دولة سويسرا')
+       || userInput.includes('سويسرا')
+    
+       || userInput.includes('عاصمة دولة سويسرا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/switzerland.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سويسرا هي جونيف </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة تركيا')
+          
+         || userInput.includes('دولة تركيا')
+           || userInput.includes('علم دولة تركيا')
+       || userInput.includes('تركيا')
+    
+       || userInput.includes('عاصمة دولة تركيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/turkiye.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة تركيا هي أنقرة </div>'  ;
+ 
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أوكرانيا')
+          
+         || userInput.includes('دولة أوكرانيا')
+       || userInput.includes('أوكرانيا')
+    
+       || userInput.includes('عاصمة دولة أوكرانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ukraine.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أوكرانيا هي كييف </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بريطانيا')
+          
+         || userInput.includes('دولة  بريطانيا')
+       || userInput.includes('بريطانيا')
+    
+       || userInput.includes('عاصمة دولة بريطانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/britain.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بريطانيا هي لندن </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الفاتيكان')
+          
+         || userInput.includes('دولة الفاتيكان')
+       || userInput.includes('الفاتيكان')
+    
+       || userInput.includes('عاصمة دولة الفاتيكان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/vatican.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الفاتيكان هي الفاتيكان </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الأرجنتين')
+          
+         || userInput.includes('دولة الأرجنتين')
+       || userInput.includes('الأرجنتين')
+    
+       || userInput.includes('عاصمة دولة الأرجنتين')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/argentina.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الأرجنتين هي  بوينس آيرس </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة البرازيل')
+          
+         || userInput.includes('دولة البرازيل')
+       || userInput.includes('البرازيل')
+    
+       || userInput.includes('عاصمة دولة البرازيل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/brazil.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة البرازيل هي برازيليا </div>'  ;
+ 
+       
+       
+       
+       
+        
+      
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة كولومبيا')
+          
+         || userInput.includes('دولة كولومبيا')
+       || userInput.includes('كولومبيا')
+    
+       || userInput.includes('عاصمة دولة كولومبيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/colombia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كولومبيا هي بوغوتا </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الإكوادور')
+          
+         || userInput.includes('دولة الإكوادور')
+       || userInput.includes('الإكوادور')
+    
+       || userInput.includes('عاصمة دولة الإكوادور')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ecuador.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الإكوادور هي كيتو </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة غيانا')
+          
+         || userInput.includes('دولة غيانا')
+       || userInput.includes('غيانا')
+    
+       || userInput.includes('عاصمة دولة غيانا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/guyana.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة غيانا هي جورجتاون </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة باراغواي')
+          
+         || userInput.includes('دولة باراغواي')
+       || userInput.includes('باراغواي')
+    
+       || userInput.includes('عاصمة دولة باراغواي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/paraguay.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة باراغواي هي أسونسيون </div>'  ;
+ 
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بيرو')
+          
+         || userInput.includes('دولة بيرو')
+       || userInput.includes('بيرو')
+    
+       || userInput.includes('عاصمة دولة بيرو')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/peru.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بيرو هي ليما </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سورينام')
+          
+         || userInput.includes('دولة سورينام')
+       || userInput.includes('سورينام')
+    
+       || userInput.includes('عاصمة دولة سورينام')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/suriname.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سورينام هي باراماريبو </div>'  ;
+ 
+       
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أوروغواي')
+          
+         || userInput.includes('دولة أوروغواي')
+       || userInput.includes('أوروغواي')
+    
+       || userInput.includes('عاصمة دولة أوروغواي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/uruguay.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أوروغواي هي مونتيفيديو </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة فنزويلا')
+          
+         || userInput.includes('دولة فنزويلا')
+       || userInput.includes('فنزويلا')
+    
+       || userInput.includes('عاصمة دولة فنزويلا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/venezuela.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة فنزويلا هي كراكاس </div>'  ;
+ 
+       
+       
+       
+       
+       
+             
+           
+         } else if (userInput.includes('ماهي عاصمة دولة مصر')
+          
+         || userInput.includes('دولة مصر')
+       || userInput.includes('مصر')
+    
+       || userInput.includes('عاصمة دولة مصر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/egypt.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة مصر هي القاهرة </div>'  ;
+ 
+       
+       
+       
+       
+        
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أنغولا')
+          
+         || userInput.includes('دولة أنغولا')
+       || userInput.includes('أنغولا')
+       
+        || userInput.includes('علم دولة أنغولا')
+    
+       || userInput.includes('عاصمة دولة أنغولا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/angola.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أنغولا هي لواندا </div>'  ;
+ 
+       
+       
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الكاميرون')
+          
+         || userInput.includes('دولة الكاميرون')
+       || userInput.includes('الكاميرون')
+       
+        || userInput.includes('علم دولة الكاميرون')
+    
+       || userInput.includes('عاصمة دولة الكاميرون')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/cameroon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الكاميرون هي ياوندي </div>'  ;
+ 
+       
+       
+       
+   
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بنين')
+          
+         || userInput.includes('دولة بنين')
+       || userInput.includes('بنين')
+       
+        || userInput.includes('علم دولة بنين')
+    
+       || userInput.includes('عاصمة دولة بنين')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/benin.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بنين هي بورتو نوفو </div>'  ;
+ 
+       
+       
+       
+       
+       
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الجزائر')
+          
+         || userInput.includes('الجزائر')
+           || userInput.includes('علم دولة الجزائر')
+       || userInput.includes('دولة الجزائر')
+    
+       || userInput.includes('عاصمة دولة الجزائر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/algeria.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الجزائر هي الجزائر </div>'  ;
+ 
+       
+      
+   
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بوتسوانا')
+          
+         || userInput.includes('دولة بوتسوانا')
+           || userInput.includes('علم دولة بوتسوانا')
+       || userInput.includes('بوتسوانا')
+    
+       || userInput.includes('عاصمة دولة بوتسوانا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/botswana.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بوتسوانا هي غابورون </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ليبيا')
+          
+         || userInput.includes('دولة ليبيا')
+           || userInput.includes('علم دولة ليبيا')
+       || userInput.includes('ليبيا')
+    
+       || userInput.includes('عاصمة دولة ليبيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/libya.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ليبيا هي طرابلس </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بوروندي')
+          
+         || userInput.includes('دولة بوروندي')
+           || userInput.includes('علم دولة بوروندي')
+       || userInput.includes('بوروندي')
+    
+       || userInput.includes('عاصمة دولة بوروندي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/burundi.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بوروندي هي بوجمبورا </div>'  ;
+ 
+       
+      
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة موريتانيا')
+          
+         || userInput.includes('دولة موريتانيا')
+           || userInput.includes('علم دولة موريتانيا')
+       || userInput.includes('موريتانيا')
+    
+       || userInput.includes('عاصمة دولة موريتانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mauritania.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة موريتانيا هي نواكشوط </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة جمهورية أفريقيا الوسطى')
+          
+         || userInput.includes('دولة جمهورية أفريقيا الوسطى')
+           || userInput.includes('علم دولة جمهورية أفريقيا الوسطى')
+       || userInput.includes('جمهورية أفريقيا الوسطى')
+    
+       || userInput.includes('عاصمة دولة جمهورية أفريقيا الوسطى')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/centrafrica.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة جمهورية أفريقيا الوسطى هي بانغي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة جزر القمر')
+          
+         || userInput.includes('دولة جزر القمر')
+           || userInput.includes('علم دولة جزر القمر')
+       || userInput.includes('جزر القمر')
+    
+       || userInput.includes('عاصمة دولة جزر القمر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/comoros.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة جزر القمر هي  موروني </div>'  ;
+ 
+       
+      
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة تشاد')
+          
+         || userInput.includes('دولة تشاد')
+           || userInput.includes('علم دولة تشاد')
+       || userInput.includes('تشاد')
+    
+       || userInput.includes('عاصمة دولة تشاد')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/chad.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة تشاد هي نجامينا </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الكونغو')
+          
+         || userInput.includes('دولة الكونغو')
+           || userInput.includes('علم دولة الكونغو')
+       || userInput.includes('الكونغو')
+    
+       || userInput.includes('عاصمة دولة الكونغو')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/congo.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الكونغو هي كينشاسا </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الرأس الأخضر')
+          
+         || userInput.includes('دولة الرأس الأخضر')
+           || userInput.includes('علم دولة الرأس الأخضر')
+       || userInput.includes('الرأس الأخضر')
+    
+       || userInput.includes('عاصمة دولة الرأس الأخضر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/capeverde.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الرأس الأخضر هي برايا </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة جيبوتي')
+          
+         || userInput.includes('دولة جيبوتي')
+           || userInput.includes('علم دولة جيبوتي')
+       || userInput.includes('جيبوتي')
+    
+       || userInput.includes('عاصمة دولة جيبوتي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/djibouti.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة جيبوتي هي جيبوتي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة غينيا الاستوائية')
+          
+         || userInput.includes('دولة غينيا الاستوائية')
+           || userInput.includes('علم دولة غينيا الاستوائية')
+       || userInput.includes('غينيا الاستوائية')
+    
+       || userInput.includes('عاصمة دولة غينيا الاستوائية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/equatorialguinea.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة غينيا الاستوائية هي مالابو </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة غينيا بيساو')
+          
+         || userInput.includes('دولة غينيا بيساو')
+           || userInput.includes('علم دولة غينيا بيساو')
+       || userInput.includes('غينيا بيساو')
+    
+       || userInput.includes('عاصمة دولة غينيا بيساو')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/guineabissau.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة غينيا بيساو هي بيساو </div>'  ;
+ 
+       
+      
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة إريتريا')
+          
+         || userInput.includes('دولة إريتريا')
+           || userInput.includes('علم دولة إريتريا')
+       || userInput.includes('إريتريا')
+    
+       || userInput.includes('عاصمة دولة إريتريا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eritrea.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إريتريا هي أسمرة </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة غانا')
+          
+         || userInput.includes('دولة غانا')
+           || userInput.includes('علم دولة غانا')
+       || userInput.includes('غانا')
+    
+       || userInput.includes('عاصمة دولة غانا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ghana.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة غانا هي أكرا </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة تنزانيا')
+          
+         || userInput.includes('دولة تنزانيا')
+           || userInput.includes('علم دولة تنزانيا')
+       || userInput.includes('تنزانيا')
+    
+       || userInput.includes('عاصمة دولة تنزانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tanzania.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة تنزانيا هي دودوما </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سوازيلاند')
+          
+         || userInput.includes('دولة سوازيلاند')
+           || userInput.includes('علم دولة سوازيلاند')
+       || userInput.includes('سوازيلاند')
+    
+       || userInput.includes('عاصمة دولة سوازيلاند')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/swaziland.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سوازيلاند هي لوبامبا </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة تونس')
+          
+         || userInput.includes('دولة تونس')
+           || userInput.includes('علم دولة تونس')
+       || userInput.includes('تونس')
+    
+       || userInput.includes('عاصمة دولة تونس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tunisia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة تونس هي تونس </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة السودان')
+          
+         || userInput.includes('دولة السودان')
+           || userInput.includes('علم دولة السودان')
+       || userInput.includes('السودان')
+    
+       || userInput.includes('عاصمة دولة السودان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sudan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سيراليون')
+          
+         || userInput.includes('دولة سيراليون')
+           || userInput.includes('علم دولة سيراليون')
+       || userInput.includes('سيراليون')
+    
+       || userInput.includes('عاصمة دولة سيراليون')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sierraleone.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سيراليون هي  فريتاون </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الصومال')
+          
+         || userInput.includes('دولة الصومال')
+           || userInput.includes('علم دولة الصومال')
+       || userInput.includes('الصومال')
+    
+       || userInput.includes('عاصمة دولة الصومال')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/somalia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الصومال هي مقديشو </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سيشيل')
+          
+         || userInput.includes('دولة سيشيل')
+           || userInput.includes('علم دولة سيشيل')
+       || userInput.includes('سيشيل')
+    
+       || userInput.includes('عاصمة دولة سيشيل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/seychelles.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سيشيل هي فيكتوريا </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة النيجر')
+          
+         || userInput.includes('دولة النيجر')
+           || userInput.includes('علم دولة النيجر')
+       || userInput.includes('النيجر')
+    
+       || userInput.includes('عاصمة دولة النيجر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/niger.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة النيجر هي نيامي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة السنغال')
+          
+         || userInput.includes('دولة السنغال')
+           || userInput.includes('علم دولة السنغال')
+       || userInput.includes('السنغال')
+    
+       || userInput.includes('عاصمة دولة السنغال')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/senegal.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة السنغال هي داكار </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة رواندا')
+          
+         || userInput.includes('دولة رواندا')
+           || userInput.includes('علم دولة رواندا')
+       || userInput.includes('رواندا')
+    
+       || userInput.includes('عاصمة دولة رواندا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/Rwanda.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة رواندا هي كيغالي </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة نيجيريا')
+          
+         || userInput.includes('دولة نيجيريا')
+           || userInput.includes('علم دولة نيجيريا')
+       || userInput.includes('نيجيريا')
+    
+       || userInput.includes('عاصمة دولة نيجيريا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nigeria.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة نيجيريا هي أبوجا </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ناميبيا')
+          
+         || userInput.includes('دولة ناميبيا')
+           || userInput.includes('علم دولة ناميبيا')
+       || userInput.includes('ناميبيا')
+    
+       || userInput.includes('عاصمة دولة ناميبيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/namibia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ناميبيا هي ويندهوك </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة موزمبيق')
+          
+         || userInput.includes('دولة موزمبيق')
+           || userInput.includes('علم دولة موزمبيق')
+       || userInput.includes('موزمبيق')
+    
+       || userInput.includes('عاصمة دولة موزمبيق')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mozambique.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة موزمبيق هي مابوتو </div>'  ;
+ 
+       
+      
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة مالي')
+          
+         || userInput.includes('دولة مالي')
+           || userInput.includes('علم دولة مالي')
+       || userInput.includes('مالي')
+    
+       || userInput.includes('عاصمة دولة مالي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mali.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة مالي هي باماكو </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة كينيا')
+          
+         || userInput.includes('دولة كينيا')
+           || userInput.includes('علم دولة كينيا')
+       || userInput.includes('كينيا')
+    
+       || userInput.includes('عاصمة دولة كينيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/kenya.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كينيا هي نيروبي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة مالاوي')
+          
+         || userInput.includes('دولة مالاوي')
+           || userInput.includes('علم دولة مالاوي')
+       || userInput.includes('مالاوي')
+    
+       || userInput.includes('عاصمة دولة مالاوي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/malawi.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة مالاوي هي ليلونغوي </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة مدغشقر')
+          
+         || userInput.includes('دولة مدغشقر')
+           || userInput.includes('علم دولة مدغشقر')
+       || userInput.includes('مدغشقر')
+    
+       || userInput.includes('عاصمة دولة مدغشقر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/madagascar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة مدغشقر هي أنتاناناريفو </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ليبيريا')
+          
+         || userInput.includes('دولة ليبيريا')
+           || userInput.includes('علم دولة ليبيريا')
+       || userInput.includes('ليبيريا')
+    
+       || userInput.includes('عاصمة دولة ليبيريا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/liberia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ليبيريا هي مونروفيا </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ليسوتو')
+          
+         || userInput.includes('دولة ليسوتو')
+           || userInput.includes('علم دولة ليسوتو')
+       || userInput.includes('ليسوتو')
+    
+       || userInput.includes('عاصمة دولة ليسوتو')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/lesotho.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ليسوتو هي ماسيرو </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة ساحل العاج')
+          
+         || userInput.includes('دولة ساحل العاج')
+           || userInput.includes('علم دولة ساحل العاج')
+       || userInput.includes('ساحل العاج')
+    
+       || userInput.includes('عاصمة دولة ساحل العاج')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ivorycoast.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة ساحل العاج هي ياموسوكرو  </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة المغرب')
+          
+         || userInput.includes('دولة المغرب')
+           || userInput.includes('علم دولة المغرب')
+       || userInput.includes('المغرب')
+    
+       || userInput.includes('عاصمة دولة المغرب')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/morocco.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة المغرب هي الرباط </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة غينيا')
+          
+         || userInput.includes('دولة غينيا')
+           || userInput.includes('علم دولة غينيا')
+       || userInput.includes('غينيا')
+    
+       || userInput.includes('عاصمة دولة غينيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/guinea.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة غينيا هي كوناكري </div>'  ;
+ 
+       
+      
+       
+       
+            
+           
+         } else if (userInput.includes('ماهي عاصمة دولة غامبيا')
+          
+         || userInput.includes('دولة غامبيا')
+           || userInput.includes('علم دولة غامبيا')
+       || userInput.includes('غامبيا')
+    
+       || userInput.includes('عاصمة دولة غامبيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/gambia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة غامبيا هي بانجول </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الغابون')
+          
+         || userInput.includes('دولة الغابون')
+           || userInput.includes('علم دولة الغابون')
+       || userInput.includes('الغابون')
+    
+       || userInput.includes('عاصمة دولة الغابون')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/gabon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الغابون هي ليبرفيل </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة إثيوبيا')
+          
+         || userInput.includes('دولة إثيوبيا')
+           || userInput.includes('علم دولة إثيوبيا')
+       || userInput.includes('إثيوبيا')
+    
+       || userInput.includes('عاصمة دولة إثيوبيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ethiopia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إثيوبيا هي أديس أبابا </div>'  ;
+ 
+       
+      
+       
+   
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة لاوس')
+          
+         || userInput.includes('دولة لاوس')
+           || userInput.includes('علم دولة لاوس')
+       || userInput.includes('لاوس')
+    
+       || userInput.includes('عاصمة دولة لاوس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/laos.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة لاوس هي فينتيان </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة منغوليا')
+          
+         || userInput.includes('دولة منغوليا')
+           || userInput.includes('علم دولة منغوليا')
+       || userInput.includes('منغوليا')
+    
+       || userInput.includes('عاصمة دولة منغوليا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mongolia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة منغوليا هي أولان باتور </div>'  ;
+ 
+       
+      
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة اليابان')
+          
+         || userInput.includes('دولة اليابان')
+           || userInput.includes('علم دولة اليابان')
+       || userInput.includes('اليابان')
+    
+       || userInput.includes('عاصمة دولة اليابان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/japan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة اليابان هي طوكيو </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بوتان')
+          
+         || userInput.includes('دولة بوتان')
+           || userInput.includes('علم دولة بوتان')
+       || userInput.includes('بوتان')
+    
+       || userInput.includes('عاصمة دولة بوتان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bhutan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بوتان هي تيمفو </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة إيران')
+          
+         || userInput.includes('دولة إيران')
+           || userInput.includes('علم دولة إيران')
+       || userInput.includes('إيران')
+    
+       || userInput.includes('عاصمة دولة إيران')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/iran.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إيران هي طهران </div>'  ;
+ 
+       
+      
+             
+         } else if (userInput.includes('ماهي عاصمة دولة سنغافورة')
+          
+         || userInput.includes('دولة سنغافورة')
+           || userInput.includes('علم دولة سنغافورة')
+       || userInput.includes('سنغافورة')
+    
+       || userInput.includes('عاصمة دولة سنغافورة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/singapore.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سنغافورة هي سنغافورة </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة كوريا الجنوبية')
+          
+         || userInput.includes('دولة كوريا الجنوبية')
+           || userInput.includes('علم دولة كوريا الجنوبية')
+       || userInput.includes('كوريا الجنوبية')
+    
+       || userInput.includes('عاصمة دولة كوريا الجنوبية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/southkorea.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كوريا الجنوبية هي سيول </div>'  ;
+ 
+       
+      
+       
+          
+      
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة اليمن')
+          
+         || userInput.includes('دولة اليمن')
+           || userInput.includes('علم دولة اليمن')
+       || userInput.includes('اليمن')
+    
+       || userInput.includes('عاصمة دولة اليمن')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/yemen.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة اليمن هي صنعاء </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة المملكة العربية السعودية')
+          
+         || userInput.includes('دولة المملكة العربية السعودية')
+           || userInput.includes('علم دولة المملكة العربية السعودية')
+       || userInput.includes('المملكة العربية السعودية')
+    
+       || userInput.includes('عاصمة دولة المملكة العربية السعودية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/saudia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة المملكة العربية السعودية هي الرياض </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة كوريا الشمالية')
+          
+         || userInput.includes('دولة كوريا الشمالية')
+           || userInput.includes('علم دولة كوريا الشمالية')
+       || userInput.includes('كوريا الشمالية')
+    
+       || userInput.includes('عاصمة دولة كوريا الشمالية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/northkorea.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كوريا الشمالية هي بيونغ يانغ </div>'  ;
+ 
+       
+      
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة الهند')
+          
+         || userInput.includes('دولة الهند')
+           || userInput.includes('علم دولة الهند')
+       || userInput.includes('الهند')
+    
+       || userInput.includes('عاصمة دولة الهند')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/india.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الهند هي نيودلهي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سلطنة عُمان')
+          
+         || userInput.includes('دولة سلطنة عُمان')
+           || userInput.includes('علم دولة سلطنة عُمان')
+       || userInput.includes('سلطنة عُمان')
+    
+       || userInput.includes('عاصمة دولة سلطنة عُمان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/Oman.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  عاصمة دولة سلطنة عُمان هي مسقط </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة البحرين')
+          
+         || userInput.includes('دولة البحرين')
+           || userInput.includes('علم دولة البحرين')
+       || userInput.includes('البحرين')
+    
+       || userInput.includes('عاصمة البحرين')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bahrain.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة البحرين هي المنامة </div>'  ;
+ 
+       
+      
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة جزر المالديف')
+          
+         || userInput.includes('دولة جزر المالديف')
+           || userInput.includes('علم دولة جزر المالديف')
+       || userInput.includes('جزر المالديف')
+    
+       || userInput.includes('عاصمة دولة جزر المالديف')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/maldives.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة جزر المالديف هي ماليه </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة التبت')
+          
+         || userInput.includes('دولة التبت')
+           || userInput.includes('علم دولة التبت')
+       || userInput.includes('التبت')
+    
+       || userInput.includes('عاصمة دولة التبت')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tibet.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة التبت هي لاهاسا </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الكويت')
+          
+         || userInput.includes('دولة الكويت')
+           || userInput.includes('علم دولة الكويت')
+       || userInput.includes('الكويت')
+    
+       || userInput.includes('عاصمة دولة الكويت')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/kuwait.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الكويت هي الكويت </div>'  ;
+ 
+       
+      
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة ماليزيا')
+          
+         || userInput.includes('دولة ماليزيا')
+           || userInput.includes('علم دولة ماليزيا')
+       || userInput.includes('ماليزيا')
+    
+       || userInput.includes('عاصمة دولة ماليزيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/malaysia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة ماليزيا هي كوالالمبور </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة نيبال')
+          
+         || userInput.includes('دولة نيبال')
+           || userInput.includes('علم دولة نيبال')
+       || userInput.includes('النيبال')
+    
+       || userInput.includes('عاصمة دولة نيبال')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nepal.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة نيبال هي كاتماندو </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أفغانستان')
+          
+         || userInput.includes('دولة أفغانستان')
+           || userInput.includes('علم دولة أفغانستان')
+       || userInput.includes('أفغانستان')
+    
+       || userInput.includes('عاصمة دولة تركيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/afghanistan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+       
+      
+       
+       
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة فلسطين')
+          
+         || userInput.includes('دولة فلسطين')
+           || userInput.includes('علم دولة فلسطين')
+       || userInput.includes('فلسطين')
+    
+       || userInput.includes('عاصمة دولة فلسطين')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/palestine.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة فلسطين هي القدس </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('إسرائيل')
+          
+         || userInput.includes('دولة إسرائيل')
+           || userInput.includes('علم دولة إسرائيل')
+       || userInput.includes('إسرائيل')
+    
+       || userInput.includes('عاصمة دولة إسرائيل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/israel.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إسرائيل هي تل أبيب </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة إندونيسيا')
+          
+         || userInput.includes('دولة إندونيسيا')
+           || userInput.includes('علم دولة إندونيسيا')
+       || userInput.includes('إندونيسيا')
+    
+       || userInput.includes('عاصمة دولة إندونيسيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/indonesia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة إندونيسيا هي جاكرتا </div>'  ;
+ 
+       
+      
+       
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة باكستان')
+          
+         || userInput.includes('دولة باكستان')
+           || userInput.includes('علم دولة باكستان')
+       || userInput.includes('باكستان')
+    
+       || userInput.includes('عاصمة دولة باكستان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/pakistan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة باكستان هي إسلام آباد </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة فيتنام')
+          
+         || userInput.includes('دولة فيتنام')
+           || userInput.includes('علم دولة فيتنام')
+       || userInput.includes('فيتنام')
+    
+       || userInput.includes('عاصمة دولة فيتنام')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/vietnam.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة فيتنام هي هانوي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة طاجيكستان')
+          
+         || userInput.includes('دولة طاجيكستان')
+           || userInput.includes('علم دولة طاجيكستان')
+       || userInput.includes('طاجيكستان')
+    
+       || userInput.includes('عاصمة دولة طاجيكستان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tajikistan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة طاجيكستان هي دوشانبي </div>'  ;
+ 
+       
+      
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة قطر')
+          
+         || userInput.includes('دولة قطر')
+           || userInput.includes('علم دولة قطر')
+       || userInput.includes('قطر')
+    
+       || userInput.includes('عاصمة دولة قطر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/qatar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة قطر هي الدوحة </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة تيمور الشرقية')
+          
+         || userInput.includes('دولة تيمور الشرقية')
+           || userInput.includes('علم دولة تيمور الشرقية')
+       || userInput.includes('تيمور الشرقية')
+    
+       || userInput.includes('عاصمة دولة تيمور الشرقية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/timor.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة تيمور الشرقية هي  ديلي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة بنغلاديش')
+          
+         || userInput.includes('دولة بنغلاديش')
+           || userInput.includes('علم دولة بنغلاديش')
+       || userInput.includes('بنغلاديش')
+    
+       || userInput.includes('عاصمة دولة بنغلاديش')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bangladesh.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة بنغلاديش هي دكا </div>'  ;
+ 
+       
+      
+       
+       
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سوريا')
+          
+         || userInput.includes('دولة سوريا')
+           || userInput.includes('علم دولة سوريا')
+       || userInput.includes('سوريا')
+    
+       || userInput.includes('عاصمة دولة سوريا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/syria.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سوريا هي دمشق </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة سريلانكا')
+          
+         || userInput.includes('دولة سريلانكا')
+           || userInput.includes('علم دولة سريلانكا')
+       || userInput.includes('سريلانكا')
+    
+       || userInput.includes('عاصمة دولة سريلانكا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/srilanka.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة سريلانكا هي كولومبو </div>'  ;
+ 
+       
+      
+       
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة قيرغيزستان')
+          
+         || userInput.includes('دولة قيرغيزستان')
+           || userInput.includes('علم دولة قيرغيزستان')
+       || userInput.includes('قيرغيزستان')
+    
+       || userInput.includes('عاصمة دولة قيرغيزستان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/kyrgyzstan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة قيرغيزستان هي بشكيك </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة لبنان')
+          
+         || userInput.includes('دولة لبنان')
+           || userInput.includes('علم دولة لبنان')
+       || userInput.includes('لبنان')
+    
+       || userInput.includes('عاصمة دولة لبنان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/lebanon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة لبنان هي بيروت </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة الصين')
+          
+         || userInput.includes('دولة الصين')
+           || userInput.includes('علم دولة الصين')
+       || userInput.includes('الصين')
+    
+       || userInput.includes('عاصمة دولة الصين')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/china.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الصين هي بيجين </div>'  ;
+ 
+       
+      
+       
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة تايلند')
+          
+         || userInput.includes('دولة تايلند')
+           || userInput.includes('علم دولة تايلند')
+       || userInput.includes('تايلند')
+    
+       || userInput.includes('عاصمة دولة تايلند')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/thailand.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة تايلند هي بانكوك </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة العراق')
+          
+         || userInput.includes('دولة العراق')
+           || userInput.includes('علم دولة العراق')
+       || userInput.includes('العراق')
+    
+       || userInput.includes('عاصمة دولة العراق')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/iraq.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة العراق هي بغداد </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة كازاخستان')
+          
+         || userInput.includes('دولة كازاخستان')
+           || userInput.includes('علم دولة كازاخستان')
+       || userInput.includes('كازاخستان')
+    
+       || userInput.includes('عاصمة دولة كازاخستان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/kazakhstan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كازاخستان هي نور سلطان </div>'  ;
+ 
+       
+      
+       
+       
+             
+         } else if (userInput.includes('ماهي عاصمة دولة الإمارات العربية المتحدة')
+          
+         || userInput.includes('دولة الإمارات العربية المتحدة')
+           || userInput.includes('علم دولة الإمارات العربية المتحدة')
+       || userInput.includes('الإمارات العربية المتحدة')
+    
+       || userInput.includes('عاصمة دولة الإمارات العربية المتحدة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/emirates.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة الإمارات العربية المتحدة هي أبو ظبي </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أمريكا')
+          
+         || userInput.includes('ماهي عاصمة دولة الولايات الأمريكية المتحدة')
+              || userInput.includes('عاصمة دولة الولايات الأمريكية المتحدة')
+                   || userInput.includes('دولة الولايات الأمريكية المتحدة')
+                        || userInput.includes('الولايات الأمريكية المتحدة')
+         
+                     || userInput.includes('دولة أمريكا')
+           || userInput.includes('علم دولة أمريكا')
+       || userInput.includes('أمريكا')
+    
+       || userInput.includes('عاصمة دولة أمريكا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/america.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أمريكا هي واشنطن </div>'  ;
+ 
+       
+      
+       
+             
+          
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أستراليا')
+          
+         || userInput.includes('دولة أستراليا')
+           || userInput.includes('علم دولة أستراليا')
+       || userInput.includes('أستراليا')
+         || userInput.includes('استراليا')
+    
+       || userInput.includes('عاصمة دولة أستراليا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/australia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة استراليا هي سيدني </div>'  ;
+ 
+       
+       
+           
+         } else if (userInput.includes('ماهي عاصمة دولة أندونيسيا')
+          
+         || userInput.includes('دولة أندونيسيا')
+           || userInput.includes('علم دولة أندونيسيا')
+       || userInput.includes('دولة أندونيسيا')
+         || userInput.includes('أندونيسيا')
+    
+       || userInput.includes('عاصمة دولة أندونيسيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/indonesia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة أندونيسيا هي سيدني جكارتا </div>'  ;
+ 
+       
+            
+         } else if (userInput.includes('ماهي عاصمة دولة كندا')
+          
+         || userInput.includes('دولة كندا')
+           || userInput.includes('علم دولة كندا')
+       || userInput.includes('دولة كندا')
+         || userInput.includes('كندا')
+    
+       || userInput.includes('عاصمة دولة كندا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/canada.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كندا هي اوتاوا </div>'  ;
+ 
+       
+       
+       
+       
+       
+       
+       
+        } else if (userInput.includes('آسيا')
+          
+       || userInput.includes('القارة الأسيوية')
+       || userInput.includes('قارة آسيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/asia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> هناك سبع قارات في العالم نستذكر منها قارة آسيا و قارة إفريقيا و  أوروبا و أمريكا الشمالية أمريكا الجنوبية و قارة أستراليا و القارة القطبية الجنوبية </div>'  ;
+ 
+       
+       
+       
+         
+        } else if (userInput.includes('قارة أمريكا')
+          
+     || userInput.includes('القارة الأمريكية')
+       || userInput.includes('قارة امريكا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/america1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> هناك سبع قارات في العالم نستذكر منها قارة آسيا و قارة إفريقيا و  أوروبا و أمريكا الشمالية أمريكا الجنوبية و قارة أستراليا و القارة القطبية الجنوبية </div>'  ;
+ 
+       
+       
+       
+       
+         
+        } else if (userInput.includes('قارة أستراليا')
+          
+    
+       || userInput.includes('القارة الأسترالية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/australia1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> عاصمة دولة كندا هي اوتاوا </div>'  ;
+ 
+       
+       
+         
+        } else if (userInput.includes('أنتاركتيكا')
+          
+     || userInput.includes('قارة أنتاركتيكا')
+       || userInput.includes('قارة القطبية الجنوبية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/antarctica.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> هناك سبع قارات في العالم نستذكر منها قارة آسيا و قارة إفريقيا و  أوروبا و أمريكا الشمالية أمريكا الجنوبية و قارة أستراليا و القارة القطبية الجنوبية </div>'  ;
+ 
+       
+       
+       
+       
+       
+       
           
   
      
