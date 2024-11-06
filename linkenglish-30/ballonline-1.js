@@ -22090,6 +22090,1269 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
 
 
 
+       
+       
+       
+          } else if (userInput.includes('نبات الفطر')
+        
+          || userInput.includes('نبات فطر')
+           || userInput.includes('الفطر')
+           
+            || userInput.includes('فطر')
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول نبات الفطر')
+          || userInput.includes('أكتب معلومات حول نبات الفطر')
+          
+          || userInput.includes('أكتب أهم معلومات عن نبات الفطر')
+          || userInput.includes('أكتب معلومات عن نبات الفطر')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف عن نبات الفطر')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن نبات الفطر')
+        
+      
+                             
+          || userInput.includes('أكتب أهم المعلومات حول الفطر')
+          || userInput.includes('أكتب معلومات حول الفطر')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفطر')
+          || userInput.includes('أكتب معلومات عن الفطر')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف عن الفطر')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفطر')
+          || userInput.includes('ماهو الفطر')
+          
+     
+            
+       || userInput.includes('ماهو فطر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mushroom.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> نبات الفطر هو نوع من الكائنات الحية التي تنتمي إلى مملكة الفطريات (Fungi)وهو ليس نباتًا حقيقيًا كما هو الحال مع النباتات الأخرى التي تنتمي إلى مملكة النباتات، بل هو نوع من الكائنات الحية التي تفتقر إلى الكلوروفيل ولا تقوم بعملية التمثيل الضوئي. يتميز الفطر بتركيب جسمه الفريد والطرق التي ينمو بها، وهو يشمل مجموعة متنوعة من الأنواع، بعضها صالح للأكل وبعضها سام. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+          } else if (userInput.includes('الغيوم')
+        
+          || userInput.includes('غيوم')
+           || userInput.includes('الغيمة')
+           
+           || userInput.includes('السحاب')
+             || userInput.includes('السحب')
+            || userInput.includes('غيمة')
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول  الغيوم')
+          || userInput.includes('أكتب معلومات حول  الغيوم')
+          
+          || userInput.includes('أكتب أهم معلومات عن  الغيوم')
+          || userInput.includes('أكتب معلومات عن  الغيوم')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف عن  الغيوم')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن  الغيوم')
+        
+      
+                             
+          || userInput.includes('أكتب أهم المعلومات حول السحاب')
+          || userInput.includes('أكتب معلومات حول السحاب')
+          
+          || userInput.includes('أكتب أهم معلومات عن السحاب')
+          || userInput.includes('أكتب معلومات عن السحاب')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف عن السحاب')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن السحاب')
+          || userInput.includes('ماهو السحاب')
+          
+     
+            
+       || userInput.includes('ماهي الغيوم')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/clouds.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الغيوم هي تجمعات من جزيئات الماء أو بلورات الجليد التي تكون عالقة في الهواء في السماء. تتكون الغيوم عندما يتكاثف بخار الماء في الجو بسبب انخفاض درجة الحرارة، ويتجمع هذا البخار في جزيئات صغيرة تشكل سحبًا مرئية. يمكن أن تكون الغيوم مصحوبة بالأمطار أو الثلوج أو حتى العواصف، ولها دور كبير في تنظيم الطقس والمناخ. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+          } else if (userInput.includes('النخيل')
+        
+          || userInput.includes('نخيل')
+           || userInput.includes('النخلة')
+           
+            || userInput.includes('نخلة')
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول النخلة')
+          || userInput.includes('أكتب معلومات حول النخلة')
+          
+          || userInput.includes('أكتب أهم معلومات عن النخلة')
+          || userInput.includes('أكتب معلومات عن النخلة')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف عن النخلة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن النخلة')
+        
+      
+                             
+          || userInput.includes('أكتب أهم المعلومات حول النخيل')
+          || userInput.includes('أكتب معلومات حول النخيل')
+          
+          || userInput.includes('أكتب أهم معلومات عن النخيل')
+          || userInput.includes('أكتب معلومات عن النخيل')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف عن النخيل')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن النخيل')
+          || userInput.includes('ماهو النخلة')
+          
+     
+            
+       || userInput.includes('ماهي النخيل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/palm.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> النخيل هو نوع من الأشجار التي تنتمي إلى عائلة النخيليات (Arecaceae)، وتُعتبر واحدة من أقدم النباتات التي زرعها الإنسان واستخدمها في العديد من المجالات. تتميز أشجار النخيل بارتفاعها، وأوراقها الريشية الطويلة، وثمرتها الشهيرة وهي التمور. يعد النخيل من النباتات المهمة في العديد من المناطق الجغرافية، خاصة في المناطق الاستوائية وشبه الاستوائية، ويمتلك قيمة اقتصادية كبيرة. </div>'  ;
+ 
+        
+       
+       
+       
+         
+       
+          } else if (userInput.includes('الطماطم')
+        
+          || userInput.includes('طماطم')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الطماطم')
+          || userInput.includes('أكتب معلومات حول الطماطم')
+          
+          || userInput.includes('أكتب أهم معلومات عن الطماطم')
+          || userInput.includes('أكتب معلومات عن الطماطم')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الطماطم')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الطماطم')
+        
+      
+      
+          || userInput.includes('ماهو الطماطم')
+          
+     
+            
+       || userInput.includes('ماهو طماطم')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tomato.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الطماطم هي واحدة من الخضروات الشهيرة التي تنتمي إلى عائلة الباذنجانيات (Solanaceae)، وهي ذات جذور نباتية تعد من أكثر المحاصيل الزراعية استهلاكًا في العالم. تعتبر الطماطم عنصرًا أساسيًا في العديد من الأطباق حول العالم وتستخدم في تحضير الصلصات، العصائر، والسلطات، فضلًا عن كونها غنية بالفيتامينات والمعادن. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+         
+       
+          } else if (userInput.includes('البطاطا')
+        
+          || userInput.includes('بطاطا')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول البطاطا')
+          || userInput.includes('أكتب معلومات حول البطاطا')
+          
+          || userInput.includes('أكتب أهم معلومات عن البطاطا')
+          || userInput.includes('أكتب معلومات عن البطاطا')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول البطاطا')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن البطاطا')
+        
+      
+      
+          || userInput.includes('ماهي البطاطا')
+          
+     
+            
+       || userInput.includes('ماهي بطاطا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/potato.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> البطاطا هي واحدة من الخضروات الجذرية الأكثر شيوعًا في العالم، وتعتبر من الأطعمة الأساسية في العديد من الثقافات. تنتمي البطاطا إلى عائلة الباذنجانيات (Solanaceae)، وهي غنية بالفيتامينات والمعادن، وتُستخدم في تحضير مجموعة متنوعة من الأطباق. </div>'  ;
+ 
+        
+       
+          } else if (userInput.includes('الخيار')
+        
+          || userInput.includes('خيار')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الخيار')
+          || userInput.includes('أكتب معلومات حول الخيار')
+          
+          || userInput.includes('أكتب أهم معلومات عن الخيار')
+          || userInput.includes('أكتب معلومات عن الخيار')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الخيار')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الخيار')
+        
+      
+      
+          || userInput.includes('ماهو الخيار')
+          
+     
+            
+       || userInput.includes('ماهو خيار')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/cucumber.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الخيار هو نبات ينتمي إلى عائلة القرعيات (Cucurbitaceae)، ويُعتبر من الخضروات الشائعة والمحبوبة في العديد من الثقافات. يتميز الخيار بمذاقه المنعش وقوامه المقرمش، وغالبًا ما يُستخدم في السلطات والمشروبات، بالإضافة إلى أنه يحتوي على العديد من الفوائد الصحية. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+        
+       
+          } else if (userInput.includes('الفجل')
+        
+          || userInput.includes('فجل')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الفجل')
+          || userInput.includes('أكتب معلومات حول الفجل')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفجل')
+          || userInput.includes('أكتب معلومات عن الفجل')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الفجل')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفجل')
+        
+      
+      
+          || userInput.includes('ماهو الفجل')
+          
+     
+            
+       || userInput.includes('ماهو فجل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/radish.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الفجل هو نوع من الخضروات الجذرية، ينتمي إلى عائلة الكرنب (Brassicaceae). يُعتبر الفجل من الخضروات الشائعة والمحبوبة في العديد من المطابخ حول العالم، ويتميز بنكهته الحارة والمقرمشة. يُستخدم الفجل في تحضير مجموعة متنوعة من الأطباق والسلطات، وله فوائد صحية عديدة. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+        
+       
+          } else if (userInput.includes('الجزر')
+        
+          || userInput.includes('جزر')
+           
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الجزر')
+          || userInput.includes('أكتب معلومات حول الجزر')
+          
+          || userInput.includes('أكتب أهم معلومات عن الجزر')
+          || userInput.includes('أكتب معلومات عن الجزر')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الجزر')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الجزر')
+        
+      
+      
+          || userInput.includes('ماهو الجزر')
+          
+     
+            
+       || userInput.includes('ماهو جزر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/carrot.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الجزر هو أحد الخضروات الجذرية الأكثر شيوعًا في العالم، ويعتبر مصدرًا غنيًا بالعديد من الفيتامينات والمعادن. ينتمي الجزر إلى عائلة الجواري (Apiaceae)، وله العديد من الفوائد الصحية ويستخدم في العديد من الأطباق المتنوعة. يتميز الجزر بلونه البرتقالي المميز، لكنه يتوافر أيضًا بألوان أخرى مثل الأحمر، الأصفر، الأبيض، والأرجواني. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+       
+          } else if (userInput.includes('البصل')
+        
+          || userInput.includes('بصل')
+           || userInput.includes('بصلة')
+          || userInput.includes('البصلة')
+         
+          || userInput.includes('أكتب أهم المعلومات حول البصل')
+          || userInput.includes('أكتب معلومات حول البصل')
+          
+          || userInput.includes('أكتب أهم معلومات عن البصل')
+          || userInput.includes('أكتب معلومات عن البصل')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول البصل')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن البصل')
+        
+      
+      
+          || userInput.includes('ماهو البصل')
+          
+     
+            
+       || userInput.includes('ماهو بصل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/onion.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> البصل هو أحد الخضروات الأساسية في المطبخ العالمي، ويعد من أشهر المحاصيل الزراعية في العالم. ينتمي البصل إلى عائلة الأميغا (Amaryllidaceae)، وهو نبات ثنائي الحول يُزرع بشكل رئيسي من أجل استهلاك جذوره. يتميز البصل بنكهته الحادة، ويُستخدم كتوابل أساسية في العديد من الأطباق والصلصات. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+       
+          } else if (userInput.includes('اللفت')
+        
+          || userInput.includes('لفت')
+         
+          || userInput.includes('أكتب أهم المعلومات حول اللفت')
+          || userInput.includes('أكتب معلومات حول اللفت')
+          
+          || userInput.includes('أكتب أهم معلومات عن اللفت')
+          || userInput.includes('أكتب معلومات عن اللفت')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول اللفت')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن اللفت')
+        
+      
+      
+          || userInput.includes('ماهو اللفت')
+          
+     
+            
+       || userInput.includes('ماهو لفت')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/turnip.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">اللفت هو نبات جذري ينتمي إلى عائلة الكرنب (Brassicaceae)، ويُزرع لأغراض غذائية في العديد من المناطق حول العالم. يُعتبر اللفت من الخضروات التي تحمل فوائد صحية كبيرة ويستخدم بشكل واسع في العديد من المأكولات.  </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+          } else if (userInput.includes('الخس')
+        
+          || userInput.includes('خس')
+         
+          || userInput.includes('أكتب أهم المعلومات حول الخس')
+          || userInput.includes('أكتب معلومات حول الخس')
+          
+          || userInput.includes('أكتب أهم معلومات عن الخس')
+          || userInput.includes('أكتب معلومات عن الخس')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الخس')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الخس')
+        
+      
+      
+          || userInput.includes('ماهو الخس')
+          
+     
+            
+       || userInput.includes('ماهو خس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/lettuce.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الخس هو نبات ورقي ينتمي إلى عائلة الزهراوات (Asteraceae) ويعد من الخضروات المفضلة في العديد من الأطباق حول العالم، خاصة في السلطات والسندويشات. الخس معروف بنكهته الطازجة والمقرمشة، ويمتاز بكونه خفيفًا منخفض السعرات الحرارية وغنيًا بالعناصر الغذائية. </div>'  ;
+ 
+        
+       
+       
+       
+       
+          } else if (userInput.includes('الثوم')
+        
+          || userInput.includes('ثوم')
+         
+          || userInput.includes('أكتب أهم المعلومات حول الثوم')
+          || userInput.includes('أكتب معلومات حول الثوم')
+          
+          || userInput.includes('أكتب أهم معلومات عن الثوم')
+          || userInput.includes('أكتب معلومات عن الثوم')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الثوم')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الثوم')
+        
+      
+      
+          || userInput.includes('ماهو الثوم')
+          
+       || userInput.includes('ماهي الثوم')
+            
+       || userInput.includes('ماهو ثوم')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/garlic.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الثوم هو نبات عشبي ينتمي إلى عائلة الثوميات (Alliaceae)، ويعتبر من التوابل الشائعة والمهمة في المطابخ حول العالم. يُستخدم الثوم لأغراض الطهي والعلاج على حد سواء، ويتميز بنكهته القوية ورائحته المميزة، بالإضافة إلى فوائده الصحية العديدة. </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+          } else if (userInput.includes('القرنبيط')
+        
+          || userInput.includes('قرنبيط')
+         
+          || userInput.includes('أكتب أهم المعلومات حول القرنبيط')
+          || userInput.includes('أكتب معلومات حول القرنبيط')
+          
+          || userInput.includes('أكتب أهم معلومات عن القرنبيط')
+          || userInput.includes('أكتب معلومات عن القرنبيط')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول القرنبيط')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن القرنبيط')
+        
+      
+      
+          || userInput.includes('ماهو القرنبيط')
+          
+     
+            
+       || userInput.includes('ماهو قرنبيط')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/cauliflower.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">القرنبيط (أو الزهرة) هو نبات من عائلة الكرنب (Brassicaceae) ويُعتبر من الخضروات المفيدة والشائعة في العديد من المأكولات حول العالم. يتميز القرنبيط بزهوره البيضاء الكثيفة والتي تتجمع لتشكل  رأسًا  كبيرًا، وله العديد من الفوائد الصحية.  </div>'  ;
+ 
+        
+       
+       
+       
+          } else if (userInput.includes('الشمندر')
+        
+          || userInput.includes('شمندر')
+          
+          || userInput.includes('الشمندر السكري')
+            || userInput.includes('شمندر سكري')
+          
+         
+          || userInput.includes('أكتب أهم المعلومات حول الشمندر')
+          || userInput.includes('أكتب معلومات حول الشمندر')
+          
+          || userInput.includes('أكتب أهم معلومات عن الشمندر')
+          || userInput.includes('أكتب معلومات عن الشمندر')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الشمندر')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الشمندر')
+        
+      
+      
+          || userInput.includes('ماهو الشمندر')
+          
+     
+            
+       || userInput.includes('ماهو شمندر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/beetroot.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الشمندر (أو البنجر) هو نبات جذري ينتمي إلى عائلة البنجرية (Amaranthaceae). يُعتبر الشمندر من الخضروات المغذية والشائعة، وله العديد من الفوائد الصحية. يُستخدم الشمندر في المأكولات كعنصر رئيسي أو كمكون إضافي لإضفاء النكهة واللون. </div>'  ;
+ 
+        
+       
+       
+       
+       
+          } else if (userInput.includes('البقوليات')
+        
+          || userInput.includes('بقوليات')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول البقوليات')
+          || userInput.includes('أكتب معلومات حول البقوليات')
+          
+          || userInput.includes('أكتب أهم معلومات عن البقوليات')
+          || userInput.includes('أكتب معلومات عن البقوليات')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول البقوليات')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن البقوليات')
+        
+      
+      
+          || userInput.includes('ماهي البقوليات')
+          
+     
+            
+       || userInput.includes('ماهي بقوليات')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/legumes.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> البقوليات هي مجموعة من النباتات التي تُزرع من أجل بذورها الصالحة للأكل، وهي تُعتبر من المصادر الغذائية الهامة في العديد من الثقافات حول العالم. تشمل البقوليات عدة أنواع، مثل الفاصوليا، العدس، الحمص، البازلاء، واللوبيا. تعتبر البقوليات غنية بالبروتينات، الألياف، والفيتامينات، مما يجعلها إضافة قيمة إلى النظام الغذائي. </div>'  ;
+ 
+        
+       
+       
+       
+       
+          } else if (userInput.includes('الخضروات')
+        
+          || userInput.includes('خضروات')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول الخضروات')
+          || userInput.includes('أكتب معلومات حول الخضروات')
+          
+          || userInput.includes('أكتب أهم معلومات عن الخضروات')
+          || userInput.includes('أكتب معلومات عن الخضروات')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الخضروات')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الخضروات')
+        
+      
+      
+          || userInput.includes('ماهي الخضروات')
+          
+     
+            
+       || userInput.includes('ماهي خضروات')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/vegetables.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الخضروات هي مجموعة من النباتات التي تُزرع لاستهلاك أجزاء منها، مثل الجذور، الأوراق، السيقان، والثمار. تُعتبر الخضروات جزءًا أساسيًا من النظام الغذائي الصحي، حيث تحتوي على مجموعة واسعة من الفيتامينات، المعادن، والألياف، وهي تلعب دورًا مهمًا في تعزيز الصحة العامة.</div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+          } else if (userInput.includes('العدس')
+        
+          || userInput.includes('عدس')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول العدس')
+          || userInput.includes('أكتب معلومات حول العدس')
+          
+          || userInput.includes('أكتب أهم معلومات عن العدس')
+          || userInput.includes('أكتب معلومات عن العدس')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول العدس')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن العدس')
+        
+      
+      
+          || userInput.includes('ماهو العدس')
+          
+     
+            
+       || userInput.includes('ماهو عدس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/lentils.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> العدس هو نوع من البقوليات ويعتبر من الأطعمة الصحية والمغذية. يُزرع العدس على نطاق واسع في العديد من البلدان ويأتي بعدة ألوان وأشكال، بما في ذلك العدس الأخضر، العدس البني، العدس الأحمر، والعدس الأسود (البلوفر). </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+          } else if (userInput.includes('الفاصولياء')
+        
+          || userInput.includes('فاصولياء')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول الفاصولياء')
+          || userInput.includes('أكتب معلومات حول الفاصولياء')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفاصولياء')
+          || userInput.includes('أكتب معلومات عن الفاصولياء')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الفاصولياء')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفاصولياء')
+        
+      
+      
+          || userInput.includes('ماهو الفاصولياء')
+          
+     
+            
+       || userInput.includes('ماهو فاصولياء')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/beans.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الفاصولياء هي نوع من البقوليات الشائعة التي تُستخدم في الطهي حول العالم. تأتي الفاصولياء بأشكال وألوان متنوعة، مثل الفاصولياء البيضاء، الفاصولياء السوداء، الفاصولياء الحمراء، والفاصولياء المتنوعة (مثل الفاصولياء التشيلي). تُعتبر الفاصولياء مصدرًا ممتازًا للبروتين والألياف، مما يجعلها خيارًا شائعًا في الأنظمة الغذائية النباتية والغير نباتية. </div>'  ;
+ 
+        
+       
+       
+       
+       
+          } else if (userInput.includes('البازلاء')
+        
+          || userInput.includes('بازلاء')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول البازلاء')
+          || userInput.includes('أكتب معلومات حول البازلاء')
+          
+          || userInput.includes('أكتب أهم معلومات عن البازلاء')
+          || userInput.includes('أكتب معلومات عن البازلاء')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول البازلاء')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن البازلاء')
+        
+      
+      
+          || userInput.includes('ماهو البازلاء')
+          
+     
+            
+       || userInput.includes('ماهو بازلاء')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/peas.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">البازلاء هي نوع من الخضروات البقولية التي تنتمي إلى عائلة الفصيلة البقولية، وتُعتبر من الأغذية الغنية بالفيتامينات والمعادن. تُستهلك البازلاء في جميع أنحاء العالم سواء كانت طازجة، مجمدة، أو مجففة، وتُستخدم في مجموعة متنوعة من الأطباق.  </div>'  ;
+ 
+        
+       
+       
+       
+          } else if (userInput.includes('الفول')
+        
+          || userInput.includes('فول')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول الفول')
+          || userInput.includes('أكتب معلومات حول الفول')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفول')
+          || userInput.includes('أكتب معلومات عن الفول')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الفول')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفول')
+        
+      
+      
+          || userInput.includes('ماهو الفول')
+          
+     
+            
+       || userInput.includes('ماهو فول')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/foul.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الفول هو نوع من البقوليات الغنية بالمغذيات، ويُعتبر من الأطعمة الأساسية في العديد من الثقافات حول العالم. يُستخدم الفول في مجموعة متنوعة من الأطباق، ويشتهر بفوائده الصحية العديدة. </div>'  ;
+ 
+        
+       
+       
+          } else if (userInput.includes('الباذنجان')
+        
+          || userInput.includes('باذنجان')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول الباذنجان')
+          || userInput.includes('أكتب معلومات حول الباذنجان')
+          
+          || userInput.includes('أكتب أهم معلومات عن الباذنجان')
+          || userInput.includes('أكتب معلومات عن الباذنجان')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الباذنجان')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الباذنجان')
+        
+      
+      
+          || userInput.includes('ماهو الباذنجان')
+          
+     
+            
+       || userInput.includes('ماهو باذنجان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eggplant.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الباذنجان هو نوع من الخضروات التي تنتمي إلى عائلة الباذنجانية، ويُعتبر من الأطعمة الشهية والمتنوعة التي تُستخدم في العديد من الأطباق حول العالم. يتميز بلونه الأرجواني اللامع وشكله المستدير أو الطويل. </div>'  ;
+ 
+        
+       
+       
+       
+      
+       
+          } else if (userInput.includes('الفلفل')
+        
+          || userInput.includes('فلفل')
+            || userInput.includes('الفلافل')
+                || userInput.includes('فلافل')
+         
+         
+          || userInput.includes('أكتب أهم المعلومات حول الفلفل')
+          || userInput.includes('أكتب معلومات حول الفلفل')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفلفل')
+          || userInput.includes('أكتب معلومات عن الفلفل')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الفلفل')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفلفل')
+        
+      
+      
+           
+            
+          || userInput.includes('أكتب أهم المعلومات حول الفلافل')
+          || userInput.includes('أكتب معلومات حول الفلافل')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفلافل')
+          || userInput.includes('أكتب معلومات عن الفلافل')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الفلافل')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفلافل')
+          || userInput.includes('ماهو الفلفل')
+          
+         || userInput.includes('ماهي الفلافل')
+            
+       || userInput.includes('ماهو الفلفل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/pepper.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الفلفل هو نوع من الخضروات التي تنتمي إلى عائلة الباذنجانية، ويُعتبر من المكونات الأساسية في العديد من الأطباق حول العالم. يتميز الفلفل بنكهته المميزة وألوانه المتنوعة، التي تتراوح من الأخضر إلى الأحمر، الأصفر، والبرتقالي.  </div>'  ;
+ 
+         
+       
+       
+         } else if (userInput.includes('الزلابية')
+        
+          || userInput.includes('زلابية')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الزلابية')
+          || userInput.includes('أكتب معلومات حول الزلابية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الزلابية')
+          || userInput.includes('أكتب معلومات عن الزلابية')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الزلابية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الزلابية')
+        
+      
+      
+          || userInput.includes('ماهي الزلابية')
+          
+     
+            
+       || userInput.includes('ماهي زلابية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/zalabia.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الزلابية هي نوع من الحلويات الشرقية المقلية والشهيرة التي يتم تحضيرها في العديد من البلدان العربية والمغاربية والآسيوية. تتميز الزلابية بنكهتها اللذيذة، قوامها الهش والمقرمش، وشكلها الكروي الذي يُغمر غالبًا في الشيرة (القطر) بعد القلي.  </div>'  ;
+ 
+        
+       
+       
+       
+       
+        
+       
+         } else if (userInput.includes('اللوز')
+        
+          || userInput.includes('لوز')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول اللوز')
+          || userInput.includes('أكتب معلومات حول اللوز')
+          
+          || userInput.includes('أكتب أهم معلومات عن اللوز')
+          || userInput.includes('أكتب معلومات عن اللوز')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول اللوز')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن اللوز')
+        
+      
+      
+          || userInput.includes('ماهو اللوز')
+          
+     
+            
+       || userInput.includes('ماهو لوز')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/almonds.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">اللوز هو نوع من المكسرات التي تنتمي إلى عائلة الوردية (Rosaceae)، ويُعتبر من الأغذية الصحية والمغذية التي تستخدم في مجموعة متنوعة من الأطعمة، سواء كانت طازجة أو محمصة أو مطحونة. اللوز يتمتع بنكهة لذيذة ويُعرف بفوائده الصحية العديدة.  </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+       
+       
+         } else if (userInput.includes('الفستق')
+        
+          || userInput.includes('فستق')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الفستق')
+          || userInput.includes('أكتب معلومات حول الفستق')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفستق')
+          || userInput.includes('أكتب معلومات عن الفستق')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الفستق')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفستق')
+        
+      
+      
+          || userInput.includes('ماهو الفستق')
+          
+     
+            
+       || userInput.includes('ماهو فستق')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/pistachios.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الفستق هو نوع من المكسرات التي تُعد من الأطعمة المغذية واللذيذة التي يتم تناولها كوجبة خفيفة أو تُضاف إلى العديد من الأطباق والحلويات. يُعتبر الفستق من المكسرات المحبوبة في جميع أنحاء العالم بفضل نكهته الغنية وقيمته الغذائية العالية.  </div>'  ;
+ 
+        
+       
+       
+          } else if (userInput.includes('المكسرات')
+        
+          || userInput.includes('مكسرات')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول المكسرات')
+          || userInput.includes('أكتب معلومات حول المكسرات')
+          
+          || userInput.includes('أكتب أهم معلومات عن المكسرات')
+          || userInput.includes('أكتب معلومات عن المكسرات')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول المكسرات')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن المكسرات')
+        
+      
+      
+          || userInput.includes('ماهي المكسرات')
+          
+     
+            
+       || userInput.includes('ماهي مكسرات')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nuts.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> المكسرات هي بذور أو فواكه جافة تحتوي على قشرة صلبة من الخارج وبذرة صالحة للأكل بداخلها. تُعد المكسرات من الأطعمة الغنية بالدهون الصحية، البروتينات، الألياف، الفيتامينات والمعادن. يمكن تناول المكسرات كوجبة خفيفة أو استخدامها في الطهي وتحضير الحلويات. </div>'  ;
+ 
+        
+       
+       
+       
+       
+          } else if (userInput.includes('الزعتر')
+        
+          || userInput.includes('زعتر')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الزعتر')
+          || userInput.includes('أكتب معلومات حول الزعتر')
+          
+          || userInput.includes('أكتب أهم معلومات عن الزعتر')
+          || userInput.includes('أكتب معلومات عن الزعتر')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الزعتر')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الزعتر')
+        
+      
+      
+          || userInput.includes('ماهو الزعتر')
+          
+     
+            
+       || userInput.includes('ماهو زعتر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/thyme.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الزعتر هو عشب عطري ينتمي إلى عائلة النعناع، ويُستخدم على نطاق واسع في الطهي والأغراض الطبية. يُعتبر الزعتر أحد التوابل التقليدية في المطبخ العربي والمتوسطي، وله نكهة مميزة ورائحة قوية تضيف طابعًا خاصًا للأطباق.  </div>'  ;
+ 
+        
+       
+       
+       
+       
+       
+          } else if (userInput.includes('لبن')
+        
+          || userInput.includes('اللبن')
+           || userInput.includes('الألبان')
+             || userInput.includes('ألبان')
+         
+          || userInput.includes('أكتب أهم المعلومات حول اللبن')
+          || userInput.includes('أكتب معلومات حول اللبن')
+          
+          || userInput.includes('أكتب أهم معلومات عن اللبن')
+          || userInput.includes('أكتب معلومات عن اللبن')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول اللبن')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن اللبن')
+        
+           
+      
+       || userInput.includes('أكتب أهم المعلومات حول الألبان')
+          || userInput.includes('أكتب معلومات حول الألبان')
+          
+          || userInput.includes('أكتب أهم معلومات عن الألبان')
+          || userInput.includes('أكتب معلومات عن الألبان')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الألبان')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الألبان')
+          || userInput.includes('ماهو اللبن')
+          
+      || userInput.includes('ماهي الألبان')
+            
+       || userInput.includes('ماهو لبن')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/yogourt.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> اللبن، المعروف أيضًا بالحليب أو الزبادي في بعض الثقافات، هو منتج غذائي يُصنع من حليب الأبقار أو الماعز أو الأغنام، ويُعتبر مصدرًا غنيًا بالعناصر الغذائية. يُستخدم اللبن في مجموعة متنوعة من الأطباق والمشروبات، وله فوائد صحية عديدة. </div>'  ;
+ 
+        
+       
+       
+      
+     
+       
+         } else if (userInput.includes('مشروبات الطاقة')
+        
+          || userInput.includes('مشروبات طاقة')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول مشروبات الطاقة')
+          || userInput.includes('أكتب معلومات حول مشروبات الطاقة')
+          
+          || userInput.includes('أكتب أهم معلومات عن مشروبات الطاقة')
+          || userInput.includes('أكتب معلومات عن مشروبات الطاقة')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول مشروبات الطاقة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن مشروبات الطاقة')
+        
+      
+      
+          || userInput.includes('ماهي مشروبات الطاقة')
+          
+     
+            
+       || userInput.includes('ماهي مشروبات طاقة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/energy.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مشروبات الطاقة هي مشروبات مُصممة لزيادة مستوى الطاقة والتركيز، وغالبًا ما تحتوي على مجموعة من المكونات مثل الكافيين، فيتامينات ب، الأحماض الأمينية، ومكونات أخرى تُعزز النشاط البدني والعقلي. تُستخدم هذه المشروبات عادةً من قبل الرياضيين، الطلاب، أو الأشخاص الذين يحتاجون إلى دفعة من الطاقة خلال يومهم.  </div>';
+ 
+          
+        
+       
+       
+       
+         } else if (userInput.includes('الويسكي')
+        
+          || userInput.includes('ويسكي')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الويسكي')
+          || userInput.includes('أكتب معلومات حول الويسكي')
+          
+          || userInput.includes('أكتب أهم معلومات عن الويسكي')
+          || userInput.includes('أكتب معلومات عن الويسكي')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الويسكي')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الويسكي')
+        
+      
+      
+          || userInput.includes('ماهو الويسكي')
+          
+     
+            
+       || userInput.includes('ماهو ويسكي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/whiskey.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+        
+      
+       
+       
+      
+       
+       
+         } else if (userInput.includes('الفودكا')
+        
+          || userInput.includes('فودكا')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الفودكا')
+          || userInput.includes('أكتب معلومات حول الفودكا')
+          
+          || userInput.includes('أكتب أهم معلومات عن الفودكا')
+          || userInput.includes('أكتب معلومات عن الفودكا')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الفودكا')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الفودكا')
+        
+      
+      
+          || userInput.includes('ماهي الفودكا')
+          
+     
+            
+       || userInput.includes('ماهي فودكا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/vodka.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+          
+       
+       
+      
+       
+         } else if (userInput.includes('الحليب')
+        
+          || userInput.includes('حليب')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الحليب')
+          || userInput.includes('أكتب معلومات حول الحليب')
+          
+          || userInput.includes('أكتب أهم معلومات عن الحليب')
+          || userInput.includes('أكتب معلومات عن الحليب')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الحليب')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الحليب')
+        
+      
+      
+          || userInput.includes('ماهو الحليب')
+          
+     
+            
+       || userInput.includes('ماهو حليب')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/milk.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+          
+        
+       
+       
+       
+       
+       
+         } else if (userInput.includes('الخمر')
+        
+          || userInput.includes('خمر')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الخمر')
+          || userInput.includes('أكتب معلومات حول الخمر')
+          
+          || userInput.includes('أكتب أهم معلومات عن الخمر')
+          || userInput.includes('أكتب معلومات عن الخمر')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الخمر')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الخمر')
+        
+      
+      
+          || userInput.includes('ماهو الخمر')
+          
+     
+            
+       || userInput.includes('ماهو خمر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/wine.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+          
+        
+       
+       
+       
+       
+         } else if (userInput.includes('الزنجبيل')
+        
+          || userInput.includes('زنجبيل')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الزنجبيل')
+          || userInput.includes('أكتب معلومات حول الزنجبيل')
+          
+          || userInput.includes('أكتب أهم معلومات عن الزنجبيل')
+          || userInput.includes('أكتب معلومات عن الزنجبيل')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الزنجبيل')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الزنجبيل')
+        
+      
+      
+          || userInput.includes('ماهو الزنجبيل')
+          
+     
+            
+       || userInput.includes('ماهو زنجبيل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ginger.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+          
+        
+       
+       
+       
+         } else if (userInput.includes('عصير الفواكه')
+        
+          || userInput.includes('عصير فواكه')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول عصير الفواكه')
+          || userInput.includes('أكتب معلومات حول عصير الفواكه')
+          
+          || userInput.includes('أكتب أهم معلومات عن عصير الفواكه')
+          || userInput.includes('أكتب معلومات عن عصير الفواكه')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول عصير الفواكه')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن عصير الفواكه')
+        
+      
+      
+          || userInput.includes('ماهو عصير الفواكه')
+          
+     
+            
+       || userInput.includes('ماهو عصير فواكه')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/fruitjuice.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+          
+        
+     
+         } else if (userInput.includes('القهوة')
+        
+          || userInput.includes('قهوة')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول القهوة')
+          || userInput.includes('أكتب معلومات حول القهوة')
+          
+          || userInput.includes('أكتب أهم معلومات عن القهوة')
+          || userInput.includes('أكتب معلومات عن القهوة')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول القهوة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن القهوة')
+        
+      
+      
+          || userInput.includes('ماهي القهوة')
+          
+     
+            
+       || userInput.includes('ماهي قهوة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/coffee.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+          
+          
+       
+         } else if (userInput.includes('الشاي')
+        
+          || userInput.includes('شاي')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الشاي')
+          || userInput.includes('أكتب معلومات حول الشاي')
+          
+          || userInput.includes('أكتب أهم معلومات عن الشاي')
+          || userInput.includes('أكتب معلومات عن الشاي')
+          
+               
+            || userInput.includes('أخبرني ماذا تعرف حول الشاي')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الشاي')
+        
+      
+      
+          || userInput.includes('ماهو الشاي')
+          
+     
+            
+       || userInput.includes('ماهو شاي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tea.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+          
+       
 
 
 
