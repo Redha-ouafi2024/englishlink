@@ -14535,16 +14535,16 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
     
     
-       } else if (userInput.includes('الراديو')
+       } else if (userInput.includes('قناة الراديو')
        
-         || userInput.includes('راديو')
+         || userInput.includes('قناة راديو')
          
           || userInput.includes('قنوات الراديو')
           
          
       
           || userInput.includes('راديو')) {
-    botMessage.innerHTML = 'راديو روسيا أو راديو اليابان أو راديو أمريكا'  ;
+    botMessage.innerHTML = 'إذاعة روسيا أو إذاعة اليابان أو إذاعة أمريكا'  ;
 
     
     
@@ -16790,6 +16790,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
           || userInput.includes('japan radio')
           || userInput.includes('راديو اليابان')
+           || userInput.includes('قناة راديو اليابان')
     || userInput.includes('الراديو الياباني')
     || userInput.includes('اذاعة اليابان')
        || userInput.includes('إذاعة اليابان')) {
@@ -16806,6 +16807,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
           
           || userInput.includes('russia radio')
+           || userInput.includes('قناة راديو روسيا')
           || userInput.includes('راديو روسيا')
     || userInput.includes('الراديو الروسي')
     || userInput.includes('اذاعة روسيا')
@@ -16824,6 +16826,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
            || userInput.includes('america radio')
             || userInput.includes('radio america')
           || userInput.includes('راديو امريكا')
+           || userInput.includes('قناة راديو روسيا')
     || userInput.includes('الراديو الامريكي')
     || userInput.includes('اذاعة امريكا')
      || userInput.includes('راديو امريكا')
