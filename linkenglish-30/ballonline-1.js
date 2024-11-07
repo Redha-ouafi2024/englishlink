@@ -17316,7 +17316,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
        
        
        
-          } else if (userInput.includes('سمك')
+          } else if (userInput.includes('السمكة')
           
           
          || userInput.includes('السمك')
