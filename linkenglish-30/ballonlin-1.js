@@ -7078,7 +7078,7 @@
 
 
       var questionCount = {};
-        var repeatedMessage = "توقف عن تكرار الكلام!";
+        var repeatedMessage = "";
         var userName = '';
         var userImage = '';
     
@@ -14371,7 +14371,7 @@
             possibleMatches.sort((a, b) => b.matchCount - a.matchCount);
             var matchIndex = repeatCount % possibleMatches.length;
 
-            return possibleMatches.length > 0 ? possibleMatches[matchIndex].article : "ملاحضة : أكتب سؤالك بشكل أفضل أو اكتب الكلمة التي تبحث عنها";
+            return possibleMatches.length > 0 ? possibleMatches[matchIndex].article : "";
         }
 
         // دالة لمعالجة الرسالة وإظهارها
@@ -14452,7 +14452,7 @@
                     questionCount[match] = 0;
                 }
 
-                if (questionCount[match] < 4) {
+                if (questionCount[match] < 8) {
                     var responseArray = responses[match];
                     var response = responseArray[questionCount[match] % responseArray.length];
                     responseMessages.push(response);
@@ -14482,11 +14482,101 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
      
      
 
+    
+       } else if (userInput.includes('قرآن')
+        || userInput.includes('القرآن الكريم')
+         || userInput.includes('سور قرآنية')
+          || userInput.includes('القرآن')) {
+    botMessage.innerHTML = 'سورة القصص, سورة المائدة ,سورة البقرة ,سورة يوسف, سورة هود'  ;
+
+    
           
      
 
+    
+       } else if (userInput.includes('سورة القصص')
       
+          || userInput.includes('القصص')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases.mp3" type = "audio/mp3">سورة القصص</audio> '  ;
 
+    
+      
+    
+    
+    
+       } else if (userInput.includes('أغاني دينية')
+       
+         || userInput.includes('الأغاني')
+         
+          || userInput.includes('أغاني')
+          
+           || userInput.includes('الأغاني الدينية')
+      
+          || userInput.includes('إبتهالات')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases5.mp3" type = "audio/mp3">إبتهالات</audio> '  ;
+
+    
+    
+    
+    
+    
+       } else if (userInput.includes('أغاني دينية')
+       
+         || userInput.includes('الأغاني')
+         
+          || userInput.includes('أغاني')
+          
+           || userInput.includes('الأغاني الدينية')
+      
+          || userInput.includes('إبتهالات')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases6.mp3" type = "audio/mp3">إبتهالات</audio> '  ;
+
+    
+    
+    
+    
+       } else if (userInput.includes('الراديو')
+       
+         || userInput.includes('راديو')
+         
+          || userInput.includes('قنوات الراديو')
+          
+         
+      
+          || userInput.includes('راديو')) {
+    botMessage.innerHTML = 'راديو روسيا أو راديو اليابان أو راديو أمريكا'  ;
+
+    
+    
+    
+       } else if (userInput.includes('سورة يوسف')
+      
+          || userInput.includes('يوسف')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases1.mp3" type = "audio/mp3">سورة يوسف</audio> '  ;
+
+        
+
+    
+       } else if (userInput.includes('سورة هود')
+      
+          || userInput.includes('هود')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases2.mp3" type = "audio/mp3">سورة هود</audio> '  ;
+
+        
+      
+       } else if (userInput.includes('سورة البقرة')
+      
+          || userInput.includes('البقرة')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases3.mp3" type = "audio/mp3">سورة البقرة</audio> '  ;
+
+
+      
+       } else if (userInput.includes('سورة المائدة')
+      
+          || userInput.includes('المائدة')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases4.mp3" type = "audio/mp3">سورة المائدة</audio> '  ;
+
+    
 
      } else if (userInput.includes('الجدول الدوري للعناصر')|| userInput.includes('البترول')|| userInput.includes('الغازات')|| userInput.includes('الغاز')|| userInput.includes('الفضة')|| userInput.includes('الذهب')|| userInput.includes('الحديد')|| userInput.includes('اليورانيوم')|| userInput.includes('النحاس') || userInput.includes('المعادن')|| userInput.includes('الجدول الدوري') || userInput.includes('الذرة')|| userInput.includes('الطاقة النووية')|| userInput.includes('الصوت')|| userInput.includes('الذرات') || userInput.includes('علم الذرة')) {
     botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالكمياء و العناصر ' ;
