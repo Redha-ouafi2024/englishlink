@@ -14541,7 +14541,9 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
          
           || userInput.includes('قنوات الراديو')
           
-         
+           || userInput.includes('إذاعة')
+           
+            || userInput.includes('اذاعة')
       
           || userInput.includes('راديو')) {
     botMessage.innerHTML = 'إذاعة روسيا أو إذاعة اليابان أو إذاعة أمريكا'  ;
