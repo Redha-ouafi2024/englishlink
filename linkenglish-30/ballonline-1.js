@@ -14346,7 +14346,7 @@
 
         // دالة لاستخراج الكلمات الرئيسية
         function extractKeywords(question) {
-            var stopWords = ["و", "في", "من", "على", "إلى", "عن", "أن", "ل", "ب"];
+            var stopWords = ["و", "في", "من", "على", "إلى", "عن", "أن", "ل", "ب", "نحن", "هن", "الحال", "الأحوال", "الأمور", "أمورك", "كما", "ليس", "عندنا", "كيف", "كان", "متى", "أين", "ماذا", "أنا", "أنت", "أنتما", "أنتم", "أنتن", "هو", "هي", "هم", "حتى", "ذلك", "الاسم", "اسمك", "إسمك", "اللقب", "الإسم", "شكر", "شكرا", "العفو", "السلام", "عليك", "عليكم", "كم", "كذلك", "ماهو", "ماهي", "مع", "بواسطة", "عندي", "عندك", "لديا", "", "لكم", "لي", "لها", ];
             return question
                 .split(" ")
                 .filter(word => word.length > 2 && !stopWords.includes(word));
@@ -14895,7 +14895,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
      || userInput.includes('riva wafi')) {
      
      
-    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">Riva</div>'  ;
+    botMessage.innerHTML = '<div class="row"><img src="rivaouafi123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">Riva</div>'  ;
 
 
 
