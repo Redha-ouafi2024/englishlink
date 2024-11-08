@@ -559,6 +559,61 @@ animation: gradient 3s linear infinite; }
 
 
 
+     #news-container {
+            width: 100%;
+            margin: 3px;
+            background: transparent;
+            padding: 3px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+             overflow-x: auto;
+        }
+
+        .text123 {
+            text-align: center;
+            margin:auto;
+            color:white;
+            font-size:20px;
+        }
+
+        #news-list {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 15px;
+            animation: scrollNews 120s linear infinite;
+
+
+        }
+
+        #news-list li {
+            padding: 5px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            white-space: nowrap; /* ??? ???? ?? ???????? ??? ????? ?????? */
+        }
+
+        #news-list li a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        #news-list li:hover {
+            background-color: #e6e6e6;
+        }
+
+
+        @keyframes scrollNews {
+            0% {
+                transform: translateX(100%); /* ??? ?????? ?? ???? ?????? */
+            }
+            100% {
+                transform: translateX(-100%); /* ????? ?????? ??? ???? ?????? */
+            }
+        }
+
 
 
 
