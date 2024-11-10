@@ -14469,6 +14469,14 @@
         
         
         
+             function insertToInputAndSend(text) {
+            document.getElementById('user-input').value = text;  
+            sendMessage();  
+        }
+
+        
+        
+        
         
        
 
@@ -14487,10 +14495,26 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
         || userInput.includes('القرآن الكريم')
          || userInput.includes('سور قرآنية')
           || userInput.includes('القرآن')) {
-    botMessage.innerHTML = 'سورة القصص, سورة المائدة ,سورة البقرة ,سورة يوسف, سورة هود'  ;
+    botMessage.innerHTML = 'القرآن الكريم'  ;
 
     
           
+                      
+               
+                const suggestions = ['سورة هود', 'سورة يوسف', 'سورة البقرة', 'سورة المائدة', 'سورة القصص'];
+                suggestions.forEach(text => {
+                    const button = document.createElement('button');
+                    button.classList.add('suggestion-button');
+                    button.textContent = text;
+                    button.onclick = () => insertToInputAndSend(text); 
+                    botMessage.appendChild(button);
+                });
+            
+    
+    
+    
+    
+    
      
 
     
@@ -14503,23 +14527,37 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
       
     
     
-    
-       } else if (userInput.includes('أغاني دينية')
+       } else if (userInput.includes('أغنية 2')
        
-         || userInput.includes('الأغاني')
          
-          || userInput.includes('أغاني')
-          
-           || userInput.includes('الأغاني الدينية')
       
-          || userInput.includes('إبتهالات')) {
+          || userInput.includes('أغنية 2')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases6.mp3" type = "audio/mp3">إبتهالات</audio> '  ;
+
+    
+    
+    
+    
+    
+       } else if (userInput.includes('أغنية 3')
+       
+         
+      
+          || userInput.includes('أغنية 3')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "" type = "audio/mp3">إبتهالات</audio> '  ;
+
+    
+    
+       } else if (userInput.includes('أغنية 1')
+       
+         
+      
+          || userInput.includes('أغنية 1')) {
     botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases5.mp3" type = "audio/mp3">إبتهالات</audio> '  ;
 
     
     
     
-    
-    
        } else if (userInput.includes('أغاني دينية')
        
          || userInput.includes('الأغاني')
@@ -14528,9 +14566,25 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
            || userInput.includes('الأغاني الدينية')
       
-          || userInput.includes('إبتهالات')) {
-    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases6.mp3" type = "audio/mp3">إبتهالات</audio> '  ;
+          || userInput.includes('أغاني مختارة')) {
+    botMessage.innerHTML = 'Songs'  ;
 
+    
+    
+    
+                const suggestions = ['أغنية 3', 'أغنية 2', 'أغنية 1'];
+                suggestions.forEach(text => {
+                    const button = document.createElement('button');
+                    button.classList.add('suggestion-button');
+                    button.textContent = text;
+                    button.onclick = () => insertToInputAndSend(text); 
+                    botMessage.appendChild(button);
+                });
+            
+    
+    
+    
+    
     
     
     
@@ -14546,8 +14600,22 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
             || userInput.includes('اذاعة')
       
           || userInput.includes('راديو')) {
-    botMessage.innerHTML = 'إذاعة روسيا أو إذاعة اليابان أو إذاعة أمريكا'  ;
+    botMessage.innerHTML = 'Radio'  ;
 
+    
+    
+                const suggestions = ['Radio america', 'Radio germany', 'Radio china', 'Radio algeria', 'Radio japan', 'Radio russia'];
+                suggestions.forEach(text => {
+                    const button = document.createElement('button');
+                    button.classList.add('suggestion-button');
+                    button.textContent = text;
+                    button.onclick = () => insertToInputAndSend(text); 
+                    botMessage.appendChild(button);
+                });
+            
+    
+    
+    
     
     
     
@@ -14562,10 +14630,41 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
            || userInput.includes('ماهي أخبار اليوم')
            
             || userInput.includes('ماهي الأخبار')
+             || userInput.includes('الأخبار اليومية')
       
           || userInput.includes('كيف هي أخبار اليوم')) {
-    botMessage.innerHTML = '<div id="news-container"><ul id="news-list"></ul>AlJazeera English News </div>  '  ;
+    botMessage.innerHTML = 'the news'  ;
 
+             
+    
+    
+       
+      
+                fetch('https://rss.app/feeds/v1.1/F7ImE65IjzRoxEva.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        const newsList = document.createElement('newslist');
+                        data.items.forEach(item => {
+                            const listItem = document.createElement('li');
+                            listItem.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
+                            newsList.appendChild(listItem);
+                        });
+                        // Apply news list animation and add to the bot response
+                        newsList.style.animation = "slideIn 1s ease-out";
+                        botMessage.appendChild(newsList);
+                    })
+          
+                      
+              
+                const suggestions = [ 'أخبار الطقس', 'أخبار الرياضة'];
+                suggestions.forEach(text => {
+                    const button = document.createElement('button');
+                    button.classList.add('suggestion-button');
+                    button.textContent = text;
+                    button.onclick = () => insertToInputAndSend(text); 
+                    botMessage.appendChild(button);
+                });
+            
     
     
     
@@ -14688,6 +14787,13 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالديانات السماوية '  ;
 
 
+    
+    
+    
+    
+    
+    
+    
     
     
      } else if (userInput.includes('الإقتصاد')
@@ -16826,8 +16932,64 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
        
        
        
+           } else if (userInput.includes('radio german')
+          
+          
+          || userInput.includes('german radio')
+           || userInput.includes('Radio german')
+          
+          || userInput.includes('راديو ألمانيا')
+           || userInput.includes('قناة راديو ألمانيا')
+    || userInput.includes('الراديو ألمانيا')
+    || userInput.includes('اذاعة ألمانيا')
+     || userInput.includes('إذاعة ألمانيا')
+       || userInput.includes('إذاعة ألمانيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><audio controls alt="audio/mp3"class="music-player" style="width:200px;"><source src = "" type = "audio/mp3"></audio>Radio Japan </div>'  ;
+ 
               
      
+       
+       
+           } else if (userInput.includes('radio china')
+          
+          
+          || userInput.includes('china radio')
+           || userInput.includes('Radio china')
+          
+          || userInput.includes('راديو الصين')
+           || userInput.includes('قناة راديو الصين')
+    || userInput.includes('الراديو الصين')
+    || userInput.includes('اذاعة الصين')
+     || userInput.includes('إذاعة الصين')
+       || userInput.includes('إذاعة الصين')) {
+     
+       botMessage.innerHTML = '<div class="row"><audio controls alt="audio/mp3"class="music-player" style="width:200px;"><source src = "" type = "audio/mp3"></audio>Radio Japan </div>'  ;
+ 
+       
+       
+       
+       
+           } else if (userInput.includes('radio algeria')
+          
+          
+          || userInput.includes('algeria radio')
+           || userInput.includes('Radio algeria')
+          
+          || userInput.includes('راديو الجزائر')
+           || userInput.includes('قناة راديو الجزائر')
+    || userInput.includes('الراديو الجزائر')
+    || userInput.includes('اذاعة الجزائر')
+     || userInput.includes('إذاعة الجزائر')
+       || userInput.includes('إذاعة الجزائر')) {
+     
+       botMessage.innerHTML = '<div class="row"><audio controls alt="audio/mp3"class="music-player" style="width:200px;"><source src = "" type = "audio/mp3"></audio>Radio Japan </div>'  ;
+ 
+       
+       
+       
+       
+       
         
          } else if (userInput.includes('radio russia')
           
@@ -26223,6 +26385,12 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
             }
         }
 
+        
+        
+
+        
+        
+        
         // دالة لتحويل النص إلى كلام
         function speakText() {
             var chatBox = document.getElementById("chat-box");
