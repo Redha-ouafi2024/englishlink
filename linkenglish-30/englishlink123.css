@@ -183,6 +183,7 @@
 
 
 
+
                 /* Container for the carousel */
         .carousel-container {
             background-color: salmon;
@@ -196,6 +197,7 @@
             display: flex;
             width: 100%;
             animation: slide 60s infinite linear;
+            
         }
         .carousel img {
             width: 100%;
@@ -226,7 +228,9 @@
         }
 
 
-
+.carousel:hover {
+    animation-play-state: paused; /* إيقاف الحركة عند التمرير */
+}
 
                      text:hover {
   background-color: violet;
@@ -235,43 +239,40 @@
 
 
 
-
-
-  /*slider imgs*/
+/*slider imgs*/
 
 .slider-container {
-overflow: auto;
-
+    overflow: hidden; /* تغيير من auto إلى hidden لإخفاء الشريط الزائد */
     width: 100%;
-height: 100%
-border: 1px solid ; color: black;
+    height: 100%;
+    border: 1px solid black; /* تصحيح الخطأ في تعريف اللون */
 }
 
 .slider {
-
     display: flex;
     animation: slide 60s infinite linear;
+}
 
+.slider:hover {
+    //animation-play-state: paused; /* إيقاف الحركة عند التمرير */
 }
 
 .slider img {
-
-
     width: 100%;
     height: auto;
-
 }
 
 @keyframes slide {
-
-
     0% {
-        transform: translateX(0%);
+        transform: translateX(-100%); /* بدء الحركة من اليمين */
     }
     100% {
-        transform: translateX(-100%);
+        transform: translateX(100%); /* الانتقال إلى اليسار */
     }
 }
+
+
+
 
 
 
